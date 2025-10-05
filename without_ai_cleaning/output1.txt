@@ -1,0 +1,1635 @@
+"Note to solo drivers: Bengaluru may soon charge you a congestion tax",```json
+{			
+			"query":"traffic jam India",
+			"traffic_related": false,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-10-02 03:16:36"
+	}
+```
+
+"एकट्याने प्रवास करणाऱ्यांना भरावा लागणार 'कंजेशन टॅक्स'? शहरातल्या शहरात फिरण्यासाठीही पैसे मोजायचे?
+
+https://
+zeenews.india.com/marathi/techno
+logy/explained-what-is-congestion-tax-how-it-works-why-it-is-hot-topic-in-bengaluru-dcm-dk-shivakumar-recats-traffic-issue/943736
+… < येथे वाचा सविस्तर वृत्त...
+#explained #congestiontax #Tax #dkshivakumar #traffic #trafficupdates",```json
+{
+			"query":"traffic jam India",
+			"traffic_related": false,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-10-02 03:02:17"
+	}
+```
+
+"Alleviate traffic congestion in Shilphata - Sign the Petition! 
+https://
+chng.it/bMSjGpyDDZ via 
+@ChangeOrg_India",```json
+{
+			"query":"traffic jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-10-01 18:12:56"
+	}
+```
+
+"Watch a few videos of India, traffic, smog, congestion.",```json
+{
+			"query":"traffic jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-10-01 18:09:36"
+	}
+```
+
+"Just came to ho chi minh city vietnam.
+Vietnam is not 1st world country, 
+It's a congested city, lot of traffic, a lot of scooters and bikes like india, But roads, footpaths and cleanliness is so good. Even with all the congestion. 
+It's all about intent . we should demand better",```json
+{
+			"query":"traffic jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-10-01 16:13:42"
+	}
+```
+
+"Respected 
+@DelhiPolice
+ 
+@DCPWestDelhi
+ 
+@CMODelhi
+ 
+@dtptraffic
+, kindly update the signal at Dada Satram Mamtani Marg, Janakpuri, New Delhi, Delhi 110058, India
+Lat 28.609328, Long 77.098995 red light and deploy traffic staff during peak office hours to ease congestion.",```json
+{
+			"query":"traffic jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Delhi",
+			"date_time": "2025-10-01 13:59:16"
+	}
+```
+
+"Respected 
+@DelhiPolice
+ 
+@DCPNewDelhi
+ 
+@CMODelhi
+ 
+@dtptraffic
+, kindly update the signal at New Delhi, Delhi, India
+Dr S Radha Krishnan Marg, Chanakyapuri, New Delhi  110021
+Lat 28.589601, Long 77.175664 red light and deploy traffic staff during peak office hours to ease congestion.",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Delhi",
+			"date_time": "2025-10-01 13:08:17"
+	}
+```
+
+"कर्नाटक की सिद्धारमैया सरकार ने बेंगलुरु के लिए कंजेशन टैक्स लगाने की खबरों को खारिज कर दिया है.  
+
+#Karnataka #Siddaramaiah  | 
+@sagayrajp
+ 
+@nagarjund",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": false,
+			"type": "other",
+			"location": "",
+			"date_time": "2025-10-01 07:20:03"
+	}
+```
+
+"Traffic gridlocks dominate India’s metros!
+
+ Bengaluru tops with 50–55% congestion, followed by Mumbai & Pune.
+
+Check the video to see the Top 10 Indian Cities with the Worst Traffic – 2025",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-10-01 07:05:26"
+	}
+```
+
+"Congestion tax is charged in most developed countries to ease traffic. Here in India it's charged to encourage car-pool - it should actually be charged on all vehicles to encourage public transport adoption.",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-10-01 07:01:20"
+	}
+```
+
+"Silicon Valley of India? Or Silicon Traffic Jam of India? 
+
+Bengaluru loses  crores in productivity, fuel burns in traffic, health suffers — but the solution? “Congestion Tax”!  
+Common log punished, corrupt system untouched.
+
+Roads collapse every monsoon, metro expansion is a",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-10-01 05:08:24"
+	}
+```
+
+"@DKShivakumar
+ instead of  congestion tax, Non KA vehicles should be thoroughly checked for valid papers. There seems to be a sudden influx of pre owned vehicles from DL and HR. 
+
+Bengaluru Congestion Tax: DK Shivakumar Denies Plan Amid Traffic Debate",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-10-01 01:58:24"
+	}
+```
+
+"Why do they make high rise buildings where there is congestion? Demolish top 5/10 floors of each high rise. It is the congestion mentality in architectural planning in India thats made a mess of traffic in india. Indians don't believe in pers space as indvls  & neither in cars.",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-30 18:28:54"
+	}
+```
+
+"Efforts to reduce Delhi's traffic congestion — including elevated roads, metro expansions, and proposed elevated #RingRoad — having unintended impact on Delhi’s natural drainage system, says new #DrainageMasterPlan",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Delhi",
+			"date_time": "2025-09-30 14:01:43"
+	}
+```
+
+"Congress when in Govt : Bengaluru, often called India’s traffic capital, may soon see a new penalty for solo commuters. Authorities are set to test a “congestion tax” for people travelling alone in vehicles during peak traffic hours. The trial will run for three months. ",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 12:52:06"
+	}
+```
+
+"Note to solo drivers: Bengaluru may soon charge you a congestion tax 
+#Bengaluru #congestiontax  #OuterRingRoad #trafficjam #traffic",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 12:22:48"
+	}
+```
+
+"Urban experts have yet again suggested introducing a congestion #tax in #Bengaluru as a step towards easing the ever-increasing #trafficproblems in the city.",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 11:06:32"
+	}
+```
+
+"Bengaluru people, after paying the highest road tax in India for pothole full roads and heavy traffic, are now being considered for a congestion tax. They will be like:",```json
+{
+			"query":"traffic congestion India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 08:50:46"
+	}
+```
+
+""MLFF = Cleaner, Faster, Smarter Mobility
+No toll barriers → less congestion, fuel savings & lower emissions. A real boon for India’s urban traffic & pollution woes." Mr Sachin Bhatia, CEO, Metra Infosys Technology
+#MLFF #SmartMobility #CleanTransport #DigitalIndia",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-30 07:05:57"
+	}
+```
+
+" Karnataka Eyes Congestion Tax 
+The state govt is planning a “congestion tax” on single-occupancy cars, starting with Bengaluru’s Outer Ring Road, to ease traffic & boost public transport use. 
+
+#Karnataka #BengaluruTraffic #CongestionTax #UrbanMobility #India",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 04:22:30"
+	}
+```
+
+"Heartbreaking to see such news… Bengaluru’s bad roads are not just about traffic congestion – they are tragically claiming the lives of innocent people. 
+
+@DKShivakumar
+ 
+@GBA_office
+ 
+@BJP4India
+ 
+@CMofKarnataka
+ 
+@karnatakaportf
+ 
+@CivicOp_india
+ #bangaloretraffic",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-30 03:56:58"
+	}
+```
+
+"In India, emergency calls (like 112) are prioritized during network congestion from large gatherings, allowing them to connect via any available carrier tower and potentially preempt non-emergency traffic. However, in extreme overload where all capacity is exhausted, the call",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-29 19:26:10"
+	}
+```
+
+"India to test Congestion Tax in Bengaluru: Solo drivers in traffic will be charged for 3 months. If successful, the rule may be rolled out nationwide.
+
+#CongestionTax",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-29 17:49:27"
+	}
+```
+
+"Based on studies from NYC, congestion pricing reduces peak-hour travel times by 10-30%. Carpooling can cut traffic by 2-5%, aiding further reductions. In India, bike taxis could increase speeds by 10-15% by reducing vehicles, equating to ~10% less time. Combined, expect 20-40%",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-29 07:54:43"
+	}
+```
+
+"Bengaluru's "third worst" ranking is specifically for traffic congestion (TomTom Index 2024), with drivers spending ~117 hours yearly in rush-hour jams. Yet, people keep coming for jobs due to its status as India's Silicon Valley: vast IT opportunities, higher salaries (avg.",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-09-28 07:02:56"
+	}
+```
+
+"@YTKDIndia
+ #YeThikKarKeDikhao 10000s of flars, high rise apartments complexes being permitted without any Drain plans, Road traffic congestion assessment, Flood water control Storm water lines, RWH ponds around them, Footpaths, etc? 
+@MoHUA_India
+ 
+@HMDA_Gov
+ 
+@revanth_anumula",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-28 02:33:15"
+	}
+```
+
+"Is this what “Brand Bengaluru” has been reduced to?
+The city once hailed as India’s “Garden City” and proudly called the “Silicon Valley of India” now finds itself shamefully ranked among the worst three cities in the world for traffic congestion. What exactly have all the",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2025-09-27 15:38:49"
+	}
+```
+
+"Delighted to participate in the inauguration ceremony of two landmark flyovers by Hon’ble CM Dr. 
+@himantabiswa
+ dangoriya this evening, marking a significant step towards easing traffic congestion and enhancing the regional connectivity of Guwahati, the gateway to Northeast India.",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-27 14:37:57"
+	}
+```
+
+"Public transport and carpooling reduce pollution and traffic congestion.  Let’s make cleaner commutes our habit.
+
+#SHS2025 #SwachhataHiSeva2025 #Swachhotsav
+#GreenCommute
+
+
+@PMOIndia
+ 
+@hd_kumaraswamy
+ 
+@BjpVarma
+ 
+@MoHUA_India
+ 
+@SwachhBharatGov
+ 
+@PIB_India
+ 
+@mygovindia",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-27 13:30:00"
+	}
+```
+
+"Respected 
+@police_haryana
+ , 
+@cmohry
+ kindly deploy Traffic staff at Manesar, Haryana, India
+Delhi Jaipur Expressway, Manesar, Manesar, Haryana
+122051, India
+Lat 28.358574, Long 76.939286 hours to ease congestion. Install divider",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Delhi",
+			"date_time": "2025-09-27 12:35:41"
+	}
+```
+
+"Dude I live in a shit hole called Bangalore. No footpaths, dust everhere, poholes, no drainage, yamrajs on the road, traffic jam for hours, adulterated food. India's metros are hell holes. No comparison with Western cities.",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-30 02:06:28"
+	}
+```
+
+"RSS isn't a political organization kid  trying hard to be next dhruv rathe , sit in foreign land and bark daily on internal matters of India.
+
+Tu London me rehta hai waha roz mulle road jam karke rally nikalte hai, namaz padhte hai ",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-29 16:52:45"
+	}
+```
+
+"Traffic jam ka logic hi ajeeb hai. 2 km ka distance = 45 min ka patience test. Aur sab log horn bajate jaise unke bajane se road khul jaayega. Bhai agar horn se jam khulta, toh India me kabhi red light hota hi nahi. ",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-29 12:24:43"
+	}
+```
+
+"The incident is real. Multiple news outlets (e.g., Indian Express, Times of India, Deccan Herald) report a woman in Vadodara sat on a road near Sursagar Lake on Sept 19, 2025, protesting after a vendor served her 4 pani puris instead of 6 for ₹20. It caused a traffic jam; police",```json
+{
+			"query":"road jam India",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-25 07:02:12"
+	}
+```
+
+"#DECODE | From Silicon Valley to Traffic Jam Valley? Karnataka CM’s Urgent Road Request to WIPRO
+
+Watch full video – 
+https://
+youtube.com/watch?v=Oani9X
+xS65I
+…
+
+
+@sudhirchaudhary
+
+#SiliconValley #India #Karnataka #Benguluru #TrafficJam #WIPRO #TechCity #decodewithsudhirchaudhary #DDNewslive",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-24 19:15:29"
+	}
+```
+
+"CM सिद्धारमैया ने अजीम प्रेमजी को लिखा खत, बेंगलुरु में ट्रैफिक जाम से जुड़ा है मामला",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": false,
+			"type": "other",
+			"location": "",
+			"date_time": "2025-09-23 09:14:56"
+	}
+```
+
+"If govt really wish to establish roads discipline & civic sense in India then it's necessary to implement stricter roads & traffic system.
+It will even then take years to get people used to of such system & become disciplined in their individual behavior.",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2025-09-22 15:06:02"
+	}
+```
+
+"@htTweets
+
+IN THIS CHAOS,I HAVE NEVER COME ACROSS ANY EMERGENCY VEHICLE BEING BLOCKED FOR LAST 16 YRS COMING BACK FROM ABROAD. I LOVE MY INDIA. SOMETIMES TOO MUCH DISCIPLINE ALSO IS BORING. 
+Source: Hindustan Times",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": false,
+			"type": "other",
+			"location": "",
+			"date_time": "2025-09-22 10:52:23"
+	}
+```
+
+"I think he knows now this his last term so he is not working the way he used to work earlier. Quality of road construction is very poor now. People are dying but he doesn’t bother anymore.
+@Nitin_gadkari
+
+
+
+https://
+freepressjournal.in/amp/indore/ind
+ore-shocker-potholes-on-rau-flyover-claims-youths-life-brother-injured
+…
+
+
+https://
+business-standard.com/amp/india-news
+/nhai-mp-high-court-notice-indore-bypass-traffic-jam-deaths-125070101420_1.html
+…",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-21 16:33:38"
+	}
+```
+
+"Here is the road infront of 
+@IIM_Bangalore
+. There is no road on the side, during peak hours its jam packed n people have to take the broken road.  On the opposite side its  
+@fortis_hospital
+ drainage is always overflowing 
+@GBAChiefComm
+ 
+@TVMohandasPai
+ 
+@CivicOp_india
+ 
+@ChristinMP_",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-21 15:44:30"
+	}
+```
+
+"Modi government kai support kai binaa aukat nahi nahi bol daay yai baat full support modi kill hindu and convert all of islam and kischanity full support modi hindu give you good vote rajsthan and all over india noo road jam another religion sare taan say juda abb tak",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-21 10:39:53"
+	}
+```
+
+"was driving in a two lane road, and there was lot of traffic. Autos and bikers immediately cut across and drove on wrong side, causing a jam on the other side as well. 
+
+urban dehaat is real and no one can fix it in India. nor does anyone care.",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-20 16:09:21"
+	}
+```
+
+"How about the worst road conditions from Dharuhera to Gurgaon?? Bilaspur jam is a daily affair, who cares?",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-20 10:47:48"
+	}
+```
+
+"The incident checks out. Multiple sources like Times of India and ABP Live report a woman in Vadodara protested on the road near Sursagar Pond after a vendor gave her 4 pani puris instead of 6 for ₹20. Police intervened to resolve the traffic jam and calm her. Viral videos",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-20 05:19:30"
+	}
+```
+
+"This is the reality. Appreciate 
+@myogiadityanath
+ is singing song of jewar airport but did he know, how the passenger will reach jewar airport?
+Through Shahberi..... single lane road of crossing republik Shahberi can take the pressure of passenger",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": false,
+			"type": "other",
+			"location": "",
+			"date_time": "2025-09-20 04:51:25"
+	}
+```
+
+"India is probably the worst in the world, we're a true 3rd world.
+
+Yesterday I got in a jam and had to spend 30 mins to cross a 100 meter, stretch on a 3 lane 1 side highway, reason, some procession, no police no permission, peak evening time, circus in the centre of the road.",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-20 02:34:51"
+	}
+```
+
+"Yes, it appears real. Multiple news outlets like NDTV, Times of India, and Indian Express report a woman in Vadodara protested by sitting on the road after getting 4 pani puris instead of 6 for ₹20. Police intervened to resolve the traffic jam. The video matches the",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-19 15:43:13"
+	}
+```
+
+"@dtptraffic
+ recently Road digged up near India surgical and it is closed. However traffic is routed from masoodpur to Mahipalpur via flyover. However several vehicles are still going wrong side from Masudpur to Vasant Vihar and that leads to traffic jam and safety issues. Pls act",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-19 15:42:26"
+	}
+```
+
+"Are you in that traffic jam to say about this ? What if vehicles are going through that road regularly and suddenly bus caves in because of rains and you are blaming driver !
+Divert the blame to common people?",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-19 14:48:03"
+	}
+```
+
+"যানজটের জেরে শিশুর মৃত্যু!
+#trafficjam #mumbai",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Mumbai",
+			"date_time": "2025-09-19 12:59:50"
+	}
+```
+
+"3+ years in Bengaluru and I’m done. The “Silicon Valley of India” feels more like the “Traffic Jam Capital.” Step out to see the city → stuck on the same pothole-ridden road 24/7. 
+Pehli fursat mein nikal liya.",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-09-19 03:07:17"
+	}
+```
+
+"service road frm rammurthy nagar to Kasturi nagar sees jam only bec ppl don't want to break the backbone & vehicles. No other reason 
+Pathetic condition of 
+@NammaBengaluroo
+ roads.
+
+@ChristinMP_
+ 
+@bengalurupost1
+ 
+@CivicOp_india
+ 
+@anil_lulla
+ 
+@GBA_office
+ 
+@HennurBlr
+ 
+@osd_cmkarnataka",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-09-18 17:02:11"
+	}
+```
+
+"Students are getting delayed everyday, walkers are facing issues to cross the road, entire traffic is dependent on the other side road leading to chaotic traffic jam everyday. And all of this is happening specially when Half Yearly exams are going on. Is India really developing??",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-17 09:05:47"
+	}
+```
+
+"https://
+thelallantop.com/india/post/bla
+ckbuck-ceo-announced-to-leave-bengaluru-office-due-to-potholes-in-roads-and-traffic-jam
+…
+
+
+@nitin_gadkari
+  pathhole man of India 
+Give some attention to your dept your are road and transport minister not petroleum minister and use your 200cr brain and fix this road issue 
+Your are not transport man your are man created image over PR",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Bengaluru",
+			"date_time": "2025-09-17 08:34:05"
+	}
+```
+
+"Sarjapur Road is pathetic daily there is a jam on this road",```json
+{
+			"query":"#trafficjam Bangalore",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-17 06:37:51"
+	}
+```
+
+"#Opinion: India Needs More Upright Officers Like Anjali Krishna
+
+ Abhay Mokashi
+
+ 
+https://
+freepressjournal.in/mumbai/mumbai-
+massive-traffic-jam-on-coastal-road-southbound-video
+…
+
+#ipsanjali  #anjalikrishna #policeofficer #FPJ",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Mumbai",
+			"date_time": "2025-09-16 07:50:47"
+	}
+```
+
+"@Uber_India
+ 
+@Uber_Support
+ 
+@airtelindia
+ 
+@DelhiAirportGMR
+ It is a terrible experience to book Uber at the T1 of Delhi Airport ,network is not available, booked cabs are not available in the parking with  the drivervs asking you to come out on then road because of traffic jam",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-15 16:04:11"
+	}
+```
+
+"This is a classic scenario where the cars on the main road will anyway have to wait in the traffic jam up ahead, and yet won't let the side ways traffic pass. When this mindset changes, I would consider India to be a truly developed nation. This and letting ambulances pass freely",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-15 07:55:36"
+	}
+```
+
+"@3rdEyeDude
+ 
+@blrcitytraffic
+ 
+@BlrCityPolice
+ This number less tractor and auto KA03AA8536 came on wrong side, blocked road near Graphite India junction at 8.35AM today and caused a jam. The auto driver even took my cars picture and threatened me saying he will take care of me!",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-15 03:17:56"
+	}
+```
+
+"Kashipur, Uttarakhand: A 30-year-old man was fatally hit by a speeding dumper at Kailash River Mining Company’s checkpoint on Bajpur Road, causing a traffic jam. Enraged villagers vandalized the company office, breaking CCTV cameras and clashing with staff. Police, led by CO",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "",
+			"date_time": "2025-09-13 18:24:16"
+	}
+```
+
+"Hello 
+@dtptraffic
+ stuck since one hour in massive traffic jam on Mehrauli Gurgaon road between Chhatarpur metro station onwards towards delhi. Traffic moving very slowly now. Kindly help",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 19:02:05"
+	}
+```
+
+"@nhai
+ came to Delhi from jammu NH44. Jammu-pathankot awful, entire punjab stretch roads in a terrible state. Massive traffic jam at Delhi border, probably to divert traffic to UER II where toll is Rs.235. Entire toll Rs.2200 apx. Time taken 14Hrs.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 16:29:41"
+	}
+```
+
+"@dtptraffic
+ massive traffic jam on outer ring road towards chirag delhi flyover",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 12:45:50"
+	}
+```
+
+"Massive traffic jam on NH-48 from Gurgaon-Delhi border towards Dhaula Kuan
+
+But who is bothered about commuters???
+
+
+@NHAI_Official
+
+
+
+@nitin_gadkari
+
+
+
+@OfficeOfNG
+
+
+
+@PMOIndia
+
+
+
+@dtptraffic
+
+
+
+@LtGovDelhi
+
+
+
+@gupta_rekha",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 12:23:30"
+	}
+```
+
+"@dtptraffic
+ jam packed traffic from lal bahadur shastri marg to chirag delhi. Stuck on the same place since 1 hr",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 12:15:15"
+	}
+```
+
+"@dtptraffic
+ 
+@DelhiPolice
+ 
+@CMODelhi
+ what is this happening? This is the traffic on lal bahadur shastri marg towards Chirag delhi. 
+I mean 20 min delay? Whole panchsheel savitri flyover jam packed. This is utter shame low this system can go.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 11:19:48"
+	}
+```
+
+"@dtptraffic
+ why this much traffic jam at Kalindi Kunj while this is a No-Entry time? Why HMV are allowed entering Delhi at this time? What is the benefit of widening the road while bottleneck is as before? 
+@pwddelhi
+ 
+@CPCB_OFFICIAL
+ 
+Kindly intervene asap.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 10:49:19"
+	}
+```
+
+"@dtptraffic
+
+There is a big traffic jam between okhla bird sanctuary, metro station and kalindi kunj metro station, while coming from Noida to Delhi. Please look into it urgently.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 08:52:04"
+	}
+```
+
+"@DelhiPolice
+ 
+@CBIHeadquarters
+ we can see in this video position of Illegal Enroachment in front of Pink Police Booth at Lohari Gate Chowk Delhi-6.  Open sale of Fire Crackers & Expired Food Items.What can we expect from Authorities ? 24×7 traffic jam, Misbehave with Pedestrians.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-10-01 01:55:31"
+	}
+```
+
+"Nah, we won’t be able to get out from city. Its packed with traffic jam in usual days and i can imagine the scene if there’s nuclear war. I do hope all the children here make it coz they don’t deserve to suffer such fates. Delhi will be targeted multiple high yeild devices.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 23:25:26"
+	}
+```
+
+"Alright, let's roast both sides Delhi-style. AAP: You guys treated that flyover like a bad ex—ignored it, blocked permissions on those 27 trees like they were state secrets, leaving commuters stuck in eternal traffic jam purgatory. BJP: Congrats on the quick finish after swooping",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 17:55:56"
+	}
+```
+
+"@OfficeOfNG
+ Dear sir, Traffic Jam at boarder of delhi is permanent on Delhi Chandigarh highway due to entry fees of commercial vehicle. Its should be online at least taxi cars so that the wastage of time can be avoided.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 14:49:24"
+	}
+```
+
+"@dtptraffic
+ 
+@HMOIndia
+ 
+@DelhiPolice
+  massive traffic jam in the lane from sheikh Sarai to Chirag delhi  towards Lajpat Nagar . no one to assist .. vehicles stuck",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 13:42:10"
+	}
+```
+
+"Traffic Police is always abscent from Qutab Road Chowk & Bara Tooti Chowk Sadar Bazar Delhi-110006.  We r facing 24×7 traffic jam at aforesaid site.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 13:26:01"
+	}
+```
+
+"Fact check: Delhi mein 30 Sep ko heavy rain se water-logging confirmed, traffic jam hua. PM, CM (Rekha Gupta, BJP since Feb '25), MLAs (BJP 48/70 seats), MPs (all 7 BJP), Councillors (BJP control April '25 se) - sab sahi. Party office inauguration 29-30 Sep ko PM Modi ne kiya.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 11:07:32"
+	}
+```
+
+"A huge traffic jam on GT Road Dilshad Garden . Travelling time 100m in 60min
+
+@dtptraffic
+ 
+@LtGovDelhi
+ 
+Decongest Delhi",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 09:35:35"
+	}
+```
+
+"Sir we are facing pathetic problems due to Illegal Enroachment at Lohari Gate Chk, Sadar Bzr Rly St Bridge, Main Road Sadar Bazar,Mithai Pull Delhi-6. All roads, foothpaths & dividers r Illegally enroached by hawkers. Main Problems: 24×7 Traffic jam, pickpocketing, eveteasing.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 04:41:22"
+	}
+```
+
+"Sir it’s a regular traffic jam situation near the Tikona park, Jamia Milia Islamia Delhi and  E-rikshaw creates chaos from wrong way plz do the needful specially from 8.30am to 10.30 am. 
+@DCPSouthDelhi
+ 
+@dtptraffic
+ 
+@shojamianagar
+ 
+@CPDelhi
+ ,
+@OkhlaTimes",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 03:22:44"
+	}
+```
+
+"@NHAI_Official
+ 
+
+The Delhi-Jaipur highway has heavy traffic jam in Bilaspur.
+scenario created a complete failure of all conventional ground transportation, meaning no vehicle is operational.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 03:00:48"
+	}
+```
+
+"@cmohry
+
+The Delhi-Jaipur highway has heavy traffic jam in Bilaspur.
+scenario created a complete failure of all conventional ground transportation, meaning no vehicle is operational.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 02:59:44"
+	}
+```
+
+"Heavy traffic jam in NH-8 from Jaipur to Delhi near Bilaspur.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 02:49:40"
+	}
+```
+
+""There's a terrible traffic jam in Bilaspur on the Delhi-Jaipur highway; vehicles are unable to move."",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 02:43:31"
+	}
+```
+
+"Massive traffic jam 25+ mins
+at flyover near Radisson hotel on NH-48  while going from Delhi to Gurgaon.
+
+Even before 8am.
+
+Anyone know?? Any action plan?
+
+It is visible only if
+- one is awake 
+- one is on duty on road
+- one has intention to take action",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-30 02:35:54"
+	}
+```
+
+"So #MCD in the name of tax collection, has created the same #traffic #jam at #DND, which the #Court order abolishing #toll, sought to achieve.  All the #Delhi borders have traffic jam every night, thanks to MCD tax collection.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-29 19:05:20"
+	}
+```
+
+"@dtptraffic
+ 9:50PM, panchsheel park metro to chirag delhi metro traffic jam packed. A 15 minute delay at night. And now the traffic inspector will be held accountable as I’m escalating this complaint. Since 5 hours this is the the traffic jam I have the proofs 
+@BJP4Delhi",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-29 16:23:19"
+	}
+```
+
+"@dtptraffic
+ outer ring road soami nagar to chirag delhi road jam packed 
+@BJP4Delhi
+ 
+@BJP4India
+ 23 minutes delay and there are flyovers on this road. This is the capital we live in. Traffic police do nothing just collect challans. Their priority is really wrong.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-29 12:17:56"
+	}
+```
+
+"@Noidatraffic
+ 
+@ACPTrafficNoida
+ what is the future plan to manage traffic jam just after Mahamaya flyover to DND on Delhi-Noida express-way. (In front of Dalit park). What is the use of U-turn at that point. No-one is  taking that U-turn. Cause of that road become narrow.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-29 05:15:10"
+	}
+```
+
+"The Delhi Police had caused a massive traffic jam. They were talking while parked in the middle of the road. Action should be taken against those two policemen. #delhitraffic 
+@dtptraffic
+ 
+@DelhiPolice",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-28 17:02:33"
+	}
+```
+
+"@PMOIndia
+ 
+@myogiadityanath
+ 
+@myogioffice
+ 
+@CMODelhi
+ 
+@AmitShah
+ Sir Kindly remove ILLEGAL ENROACHMENT from Lohari Gate Ck, Sadar Bazar, Teliwara & Mithai Pull  Delhi-6 on PERMANENT basis asp. Main Problems: 24×7 Traffic Jam, Eve teasing, Pickpocketing , Misbehave with Pedestrians.",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-28 15:39:40"
+	}
+```
+
+"In the bustling streets of Delhi this September, amid trending traffic chaos, a stylish woman in a golden saree hailed a ride. But when a massive jam delayed her by minutes, she flipped out: "Traffic lag jaye toh driver ki galti? I won't pay your 300 Rs!" She strutted away, phone",```json
+{
+			"query":"traffic jam Delhi",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2025-09-28 13:11:35"
+	}
+```
+
+"A college bus accident on the Pallavaram flyover halted traffic along GST Road and even caused delays in flights, as commuters struggled with the resulting gridlock.
+#Chennai #TrafficChaos",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2025-08-22 08:43:32"
+	}
+```
+
+"Poor crowd management sir 
+https://
+m.economictimes.com/news/new-updat
+es/ar-rahmans-concert-triggers-chaos-as-traffic-grinds-to-a-standstill-in-chennai-inquiry-launched-into-gridlock/amp_articleshow/103597530.cms
+…",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2025-05-08 11:13:29"
+	}
+```
+
+"Chennai Traffic Advisory For IPL Match Scheduled Today: All About Parking Arrangements
+Chennai's arteries are about to pump with a whole lot more than just traffic today.  Let's hope they've actually planned for the inevitable gridlock – this isn'...",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2025-04-30 14:30:58"
+	}
+```
+
+"#Chennai: Key Routes in Traffic Gridlock after Brief Rain, IMD Predicts More Rain Ahead",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-11-08 03:38:49"
+	}
+```
+
+"Severe traffic congestion has caused a major disruption in the Korukkupet Ezhil Nagar area of North Chennai, with over a hundred two-wheelers and shared autos stuck for more than an hour. 
+
+Commuters have been facing delays due to the gridlock, which is affecting movement in the",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-10-25 07:26:54"
+	}
+```
+
+"Earlier in Sep 2023 ,
+"Music Concert Triggers Chaos-as-Traffic grinds to a Standstill in Chennai"
+
+@MLJ_GoI
+ 
+@mygovindia
+ 
+@NIMHANS_BLR
+ 
+
+@WHO
+ 
+@indSupremeCourt
+ 
+@HMOIndia
+ 
+@UNRSC",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-10-08 06:49:47"
+	}
+```
+
+"Chaos at Chennai Air Show: 3 Dead as Millions Flock to Marina Beach, Traffic Gridlock Adds to Tragedy!
+.
+.
+.
+#Chennai #NewsUpdate #TrendingNow #TVN #TheVocalNews",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-10-07 08:48:28"
+	}
+```
+
+"Chennai IAF Air Show fever grips Chennai: Commuters face traffic gridlock in multiple areas
+
+
+@TinishaRachel
+
+
+#dtnext #airshow #chennai #chennaiairshow #iaf #marinabeach #chennaiairshow2024 #indianairforce #akashganaga #suryakiranaerobaticteam #indianairforceday",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-10-06 09:09:13"
+	}
+```
+
+"Hold your imagination’s horses, every mass event is seeing the same and waiting for tragic incidents to happen…..
+
+
+https://
+m.economictimes.com/news/new-updat
+es/ar-rahmans-concert-triggers-chaos-as-traffic-grinds-to-a-standstill-in-chennai-inquiry-launched-into-gridlock/amp_articleshow/103597530.cms
+…
+
+#HathrasAccident",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2024-07-03 05:29:42"
+	}
+```
+
+"This issue is there in major cities the problem with Blore is there is no one to regulate traffic, additional cops r needed to control the chaos else it will b a gridlock knowing the discipline that our citizens have.. Fri eve in chennai was similar but police did a wonderful job",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2023-11-12 03:06:05"
+	}
+```
+
+"Traffic snarls were a rarity at Anna Nagar until a decade ago. Now, motorists hit a roadblock at the Thirumangalam traffic junction and endure the daily ordeal of waiting for long hours, writes 
+@LakshmiK06
+. 
+
+
+https://
+trib.al/0d5guIK",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2023-09-27 06:30:03"
+	}
+```
+
+"@ChennaiTraffic
+ 
+@chennaicorp
+ 
+
+Tgis is irritating daily. 1 hr of gridlock. City corporation gives approval for multiple amenities in nolambur including hirises, schools, sports complex.. but don't have a proper traffic maintenance and roads. Just hefty taxes... Thanks Chennai",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2023-08-19 13:57:04"
+	}
+```
+
+"Dear 
+@ChennaiTraffic
+ 
+Signal not working and horrible  traffic jam/gridlock and took 25 minutes to cross yesterday at 8.00PM. 
+Location: Kamaraj Salai - PT Rajan Salai junction 
+
+https://
+maps.app.goo.gl/Ek5bjZgWnbEwrH
+fV6
+…
+
+Kindly have a traffic police to regulate, until signal is repaired.",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Chennai",
+			"date_time": "2023-06-18 13:54:33"
+	}
+```
+
+"This traffic mismanagement and the Urban infrastructure mess starts from every Suburban areas of Chennai. Where most of ChennaiWasi's commute towards OMR n other Industrial Hubs. 
+Complete Gridlock every day n night..
+
+Proof that, Building Bridges doesn't not solve the problem.",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2023-03-16 04:25:25"
+	}
+```
+
+"If prefab tech was used, #Chennai's storm drain work could have avoided traffic chaos. Also, Central Public Health & Environmental Engineering Organisation (CPHEEO) manual says runoff needs to be harvested, not wasted. 
+https://
+inmathi.com/2022/09/21/cou
+ld-precast-drains-have-saved-chennai-from-gridlock/66278/
+… Lessons for future 
+@chennaicorp",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2022-09-21 12:06:02"
+	}
+```
+
+"Widespread building violations and indiscriminate parking has been a major cause of gridlock on the arterial GST road. #chennai #roadsafety 
+@sattapanchayath
+ 
+@southmadraspost
+ 
+
+
+http://
+chennai.citizenmatters.in/chennai-gst-ro
+ad-traffic-and-building-violations-under-pallavaram-municipality-13227
+…",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2019-12-11 12:14:14"
+	}
+```
+
+"Major traffic gridlock on Mandaveli singnal... what's happening? #ChennaiTraffic 
+@cctpolice
+ #Chennai",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2019-10-01 06:29:01"
+	}
+```
+
+"If Chennai has a average north east monsoon there will be crazy amount of water logging, traffic jams and what not. 15 minutes rains causing gridlock almost..",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Chennai",
+			"date_time": "2019-09-03 16:32:00"
+	}
+```
+
+"No checks and not s single traffic policemen are outside during peak hours. Visit Chennai and see how cops work during peak hours across the city
+
+Yday after crossing 80 ft road on Koramangala was standing for an hour to cross Nous Info because U turn guys creates gridlock",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2019-06-14 22:52:00"
+	}
+```
+
+"“If our traffic police can enforce lane discipline like they do in Chennai & Mumbai half of #Bengaluru’s traffic gridlock will be eliminated. All they need is to dent the bonnets of erring drivers with lathis n then no one will err”  
+
+https://
+economictimes.indiatimes.com/news/politics-
+and-nation/biocon-chief-kiran-mazumdar-shaw-dent-vehicle-bonnets-to-discipline-violators/articleshow/67521548.cms?utm_source=twitter.com&utm_medium=Social&utm_campaign=ETTWMain
+…",```json
+{
+			"query":"traffic jam Bengaluru",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2019-01-14 14:30:00"
+	}
+```
+
+"“If our traffic police can enforce lane discipline like they do in Chennai & Mumbai, half of Bengaluru’s traffic gridlock will be eliminated. All they need is to dent the bonnets of erring drivers with lathis n then no one will err,” Kiran Mazumdar-Shaw 
+  
+https://
+epaper.timesgroup.com/Olive/ODN/Time
+sOfIndia/shared/ShowArticle.aspx?doc=TOICH%2F2019%2F01%2F14&entity=Ar00703&sk=BAD19B12&mode=text
+…",```json
+{
+			"query":"traffic jam Bengaluru",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2019-01-14 05:22:24"
+	}
+```
+
+"If our traffic police can enforce lane discipline like they do in Chennai & Mumbai half of Bengaluru’s traffic gridlock will be eliminated. All they need is to dent the bonnets of erring drivers with lathis n then no one will err 
+@blrcitytraffic
+ 
+@CMofKarnataka
+ 
+@BPACofficial",```json
+{
+			"query":"traffic jam Mumbai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Bengaluru",
+			"date_time": "2019-01-13 07:18:54"
+	}
+```
+
+"Protest, Venkaiah event lead to traffic gridlock in #Chennai 
+https://
+newstodaynet.com/index.php/2018
+/12/03/protest-venkaiah-event-lead-to-traffic-gridlock-in-chennai/
+…",```json
+{
+			"query":"traffic jam Mumbai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2018-12-03 10:10:21"
+	}
+```
+
+"Gridlock! As protesters snarl, Anna Salai traffic stands still 
+http://
+toi.in/nrqRtY",```json
+{
+			"query":"traffic jam Mumbai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "",
+			"date_time": "2018-04-24 19:13:07"
+	}
+```
+
+"@siddaramaiah
+ Regarding traffic gridlock in the City, Bangalore Mirror has titled its feature story: “The city is coming apart at the seams.” There is an urgent need to invest in a Mass Rapid Transit System on the model of the suburban rail network in Chennai and Mumbai.",```json
+{
+			"query":"traffic jam Mumbai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Mumbai",
+			"date_time": "2018-02-05 10:06:00"
+	}
+```
+
+"#Protests lead to #GridLock all over the city, #traffic thrown out of gear
+
+http://
+dtnext.in/News/City/2017
+/01/24005901/1025991/Protests-lead-to-grid-lock-all-over-the-city-traffic-.vpf
+… #ChennaiRiots #JallikattuProtest #Chennai",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2017-01-24 04:30:37"
+	}
+```
+
+"Major traffic gridlock at Marina Beach, #Chennai it seems - thanks to #JusticeforJallikattu - so many jobless people in this city!!",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2017-01-18 07:54:06"
+	}
+```
+
+"Complete traffic gridlock in south Chennai now..Give lots of time to go anywhere",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2016-08-29 12:50:31"
+	}
+```
+
+".
+@yoginisd
+ Am in Chennai right now, for a board meeting. Glorious weather. Despite rains, no major traffic jams or gridlock, unlike Delhi",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "jam",
+			"location": "Delhi",
+			"date_time": "2016-05-17 10:56:20"
+	}
+```
+
+"Easing the gridlock on #Chennai roads 
+http://
+dtnext.in/News/City/2016
+/04/16190814/Easing-the-gridlock-on-Chennai-roads.vpf
+…
+#Traffic",```json
+{
+			"query":"traffic jam Chennai",
+			"traffic_related": true,
+			"type": "congestion",
+			"location": "Chennai",
+			"date_time": "2016-04-17 04:58:34"
+	}
+```
+

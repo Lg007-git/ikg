@@ -1,0 +1,861 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_78e08471cfa5eb2ab8bdb2adfdcddecf {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+
+            <style>html, body {
+                width: 100%;
+                height: 100%;
+                margin: 0;
+                padding: 0;
+            }
+            </style>
+
+            <style>#map {
+                position:absolute;
+                top:0;
+                bottom:0;
+                right:0;
+                left:0;
+                }
+            </style>
+
+            <script>
+                L_NO_TOUCH = false;
+                L_DISABLE_3D = false;
+            </script>
+
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_78e08471cfa5eb2ab8bdb2adfdcddecf" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_78e08471cfa5eb2ab8bdb2adfdcddecf = L.map(
+                "map_78e08471cfa5eb2ab8bdb2adfdcddecf",
+                {
+                    center: [22.5937, 78.9629],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 5,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_abbe2939955ff48f7ca7b66ed0cfba95 = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_abbe2939955ff48f7ca7b66ed0cfba95.addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var marker_77271dc8d1873f78f98f893e9c1a49ca = L.marker(
+                [28.4595, 77.0266],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_2a4697b572494953c3e846068a999ad8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_f0a1adbe14b079006f73a43bf5d9e8ff = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_76b95f815887599c69db7b4218c872ff = $(`<div id="html_76b95f815887599c69db7b4218c872ff" style="width: 100.0%; height: 100.0%;">jam: This video depicts a severe traffic jam in Gurugram, India, on the Delhi-Jaipur highway, caused by h...</div>`)[0];
+                popup_f0a1adbe14b079006f73a43bf5d9e8ff.setContent(html_76b95f815887599c69db7b4218c872ff);
+            
+        
+
+        marker_77271dc8d1873f78f98f893e9c1a49ca.bindPopup(popup_f0a1adbe14b079006f73a43bf5d9e8ff)
+        ;
+
+        
+    
+    
+                marker_77271dc8d1873f78f98f893e9c1a49ca.setIcon(icon_2a4697b572494953c3e846068a999ad8);
+            
+    
+            var marker_4a9a82955ad34338ab00c9d0567397e3 = L.marker(
+                [28.4595, 77.0266],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_10c5844dfe2a28f93e00e36856e3eafa = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6f03a9c8dff14490b60f705da732ab46 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f26497df390d1d7004ca65f5e64fab30 = $(`<div id="html_f26497df390d1d7004ca65f5e64fab30" style="width: 100.0%; height: 100.0%;">jam: Checked the video. It shows a massive nighttime traffic jam with packed highways and city lights, ma...</div>`)[0];
+                popup_6f03a9c8dff14490b60f705da732ab46.setContent(html_f26497df390d1d7004ca65f5e64fab30);
+            
+        
+
+        marker_4a9a82955ad34338ab00c9d0567397e3.bindPopup(popup_6f03a9c8dff14490b60f705da732ab46)
+        ;
+
+        
+    
+    
+                marker_4a9a82955ad34338ab00c9d0567397e3.setIcon(icon_10c5844dfe2a28f93e00e36856e3eafa);
+            
+    
+            var marker_56af1001df9c3bb1ce79da3cc4773ead = L.marker(
+                [28.4595, 77.0266],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_ce09da1fbb53f49543461760a0dbac7f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_96580342077af3216b7d777514d7c6e2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9857bd83a271d55236d9e3fd59b133e5 = $(`<div id="html_9857bd83a271d55236d9e3fd59b133e5" style="width: 100.0%; height: 100.0%;">jam: 6-hour jam, zero complaints: Rapido driver wins hearts for enduring Gurgaon’s traffic congestion ami...</div>`)[0];
+                popup_96580342077af3216b7d777514d7c6e2.setContent(html_9857bd83a271d55236d9e3fd59b133e5);
+            
+        
+
+        marker_56af1001df9c3bb1ce79da3cc4773ead.bindPopup(popup_96580342077af3216b7d777514d7c6e2)
+        ;
+
+        
+    
+    
+                marker_56af1001df9c3bb1ce79da3cc4773ead.setIcon(icon_ce09da1fbb53f49543461760a0dbac7f);
+            
+    
+            var marker_eea61d27dad871663f5d63290d0c5ccd = L.marker(
+                [18.5204, 73.8567],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_b6ef3e0a85c4c440e6a0126072487aa8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_6695236b044f2aa38e681ec8589f0766 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e37284fb4a966a478661f86e2630c09a = $(`<div id="html_e37284fb4a966a478661f86e2630c09a" style="width: 100.0%; height: 100.0%;">jam: This will improve more if we have good quality roads all over India irrespective of road. Like in pu...</div>`)[0];
+                popup_6695236b044f2aa38e681ec8589f0766.setContent(html_e37284fb4a966a478661f86e2630c09a);
+            
+        
+
+        marker_eea61d27dad871663f5d63290d0c5ccd.bindPopup(popup_6695236b044f2aa38e681ec8589f0766)
+        ;
+
+        
+    
+    
+                marker_eea61d27dad871663f5d63290d0c5ccd.setIcon(icon_b6ef3e0a85c4c440e6a0126072487aa8);
+            
+    
+            var marker_f34686bbef4c0dc8eaf71ac8af93535f = L.marker(
+                [22.0, 79.0],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_c13732112d250a046dc8a7737cb037ff = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0b64b00f0847e3310488c571921e5564 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4d4e3971b5a6d160e48b46c0d7cf400d = $(`<div id="html_4d4e3971b5a6d160e48b46c0d7cf400d" style="width: 100.0%; height: 100.0%;">jam: Inside India’s Growing Challenge of Traffic Congestion and Emergency Response -   https:// questiqa....</div>`)[0];
+                popup_0b64b00f0847e3310488c571921e5564.setContent(html_4d4e3971b5a6d160e48b46c0d7cf400d);
+            
+        
+
+        marker_f34686bbef4c0dc8eaf71ac8af93535f.bindPopup(popup_0b64b00f0847e3310488c571921e5564)
+        ;
+
+        
+    
+    
+                marker_f34686bbef4c0dc8eaf71ac8af93535f.setIcon(icon_c13732112d250a046dc8a7737cb037ff);
+            
+    
+            var marker_9f89ee4482ac6f3aae5fb15c33ecb215 = L.marker(
+                [28.68, 77.48],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_4eb714b2160e5624e95ee013e2a9b0f0 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_55edd93fdbecf8a1e132f01f2d4e260e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1cf7dcb205df4f067d1072419f367b58 = $(`<div id="html_1cf7dcb205df4f067d1072419f367b58" style="width: 100.0%; height: 100.0%;">jam: #Traffic chaos on #Ghaziabad-Delhi-Meerut Expressway ahead of #RakhiCelebration, #DelhiPolice issues...</div>`)[0];
+                popup_55edd93fdbecf8a1e132f01f2d4e260e.setContent(html_1cf7dcb205df4f067d1072419f367b58);
+            
+        
+
+        marker_9f89ee4482ac6f3aae5fb15c33ecb215.bindPopup(popup_55edd93fdbecf8a1e132f01f2d4e260e)
+        ;
+
+        
+    
+    
+                marker_9f89ee4482ac6f3aae5fb15c33ecb215.setIcon(icon_4eb714b2160e5624e95ee013e2a9b0f0);
+            
+    
+            var marker_2d3772e619b53ef03679bbfe54af42c0 = L.marker(
+                [17.385, 78.4867],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_0af6ebb7af286f4f90f1e8e5584a6868 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d83bb174ba0035f5f686968b81437f81 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_37e8166590455993a3b8a9c8e6c0e28c = $(`<div id="html_37e8166590455993a3b8a9c8e6c0e28c" style="width: 100.0%; height: 100.0%;">jam: This was the traffic jam in Hyderabad last evening, a scene we see across India.  It sends a clear m...</div>`)[0];
+                popup_d83bb174ba0035f5f686968b81437f81.setContent(html_37e8166590455993a3b8a9c8e6c0e28c);
+            
+        
+
+        marker_2d3772e619b53ef03679bbfe54af42c0.bindPopup(popup_d83bb174ba0035f5f686968b81437f81)
+        ;
+
+        
+    
+    
+                marker_2d3772e619b53ef03679bbfe54af42c0.setIcon(icon_0af6ebb7af286f4f90f1e8e5584a6868);
+            
+    
+            var marker_8300001489de8a0b3a80dc414dc5567c = L.marker(
+                [13.0388, 77.591],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_05f6464cf6b2e7dc10522c2994e6bfdd = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9780d2ede64deaeda6e54e5ee5670b83 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_51b2a4b7454aa8b82ee922241198bb5f = $(`<div id="html_51b2a4b7454aa8b82ee922241198bb5f" style="width: 100.0%; height: 100.0%;">jam: NoMatter howMany tunel r made unless number of vehicles is not reduced traffic jam wont decline Cong...</div>`)[0];
+                popup_9780d2ede64deaeda6e54e5ee5670b83.setContent(html_51b2a4b7454aa8b82ee922241198bb5f);
+            
+        
+
+        marker_8300001489de8a0b3a80dc414dc5567c.bindPopup(popup_9780d2ede64deaeda6e54e5ee5670b83)
+        ;
+
+        
+    
+    
+                marker_8300001489de8a0b3a80dc414dc5567c.setIcon(icon_05f6464cf6b2e7dc10522c2994e6bfdd);
+            
+    
+            var marker_4872dea6b1c71efec742c0512fe4a3c2 = L.marker(
+                [28.6139, 77.209],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_611a2434ac42c42500df2bb2cdcc7e44 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_d75b8cad01dc9ccff7e6f7f910641882 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_200314fd0543ae9d61443d595cfbb2df = $(`<div id="html_200314fd0543ae9d61443d595cfbb2df" style="width: 100.0%; height: 100.0%;">jam: That’s the problem with copy paste approach, it may work less crowded areas but not in India, we nee...</div>`)[0];
+                popup_d75b8cad01dc9ccff7e6f7f910641882.setContent(html_200314fd0543ae9d61443d595cfbb2df);
+            
+        
+
+        marker_4872dea6b1c71efec742c0512fe4a3c2.bindPopup(popup_d75b8cad01dc9ccff7e6f7f910641882)
+        ;
+
+        
+    
+    
+                marker_4872dea6b1c71efec742c0512fe4a3c2.setIcon(icon_611a2434ac42c42500df2bb2cdcc7e44);
+            
+    
+            var marker_c2ae333f54da2559b4612159e5ba6141 = L.marker(
+                [19.4294, 72.8454],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_79db41e075f1adf4af0c8aa845f05430 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_45a2ab4e6747ca709ec7aba82328ba0c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_30e9b5e995644fc1f315891cac0d765d = $(`<div id="html_30e9b5e995644fc1f315891cac0d765d" style="width: 100.0%; height: 100.0%;">jam: Nala Sopara, Maharashtra: A 2-km-long traffic jam occurred near Tulinj Road Naka in Nala Sopara East...</div>`)[0];
+                popup_45a2ab4e6747ca709ec7aba82328ba0c.setContent(html_30e9b5e995644fc1f315891cac0d765d);
+            
+        
+
+        marker_c2ae333f54da2559b4612159e5ba6141.bindPopup(popup_45a2ab4e6747ca709ec7aba82328ba0c)
+        ;
+
+        
+    
+    
+                marker_c2ae333f54da2559b4612159e5ba6141.setIcon(icon_79db41e075f1adf4af0c8aa845f05430);
+            
+    
+            var marker_d9e41ee42dc9be790fdf66bf68b38dfc = L.marker(
+                [28.5501, 77.1042],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_d8793dac4b84be89f4955bf3157a129c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_5557ffa624e159a7558ea044f0e91f92 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2a104a5acf4d85faf8a92f53e0935961 = $(`<div id="html_2a104a5acf4d85faf8a92f53e0935961" style="width: 100.0%; height: 100.0%;">jam: Delhi: Rainfall causes heavy jam at Mahipalpur underpass, leading to traffic congestion on the route...</div>`)[0];
+                popup_5557ffa624e159a7558ea044f0e91f92.setContent(html_2a104a5acf4d85faf8a92f53e0935961);
+            
+        
+
+        marker_d9e41ee42dc9be790fdf66bf68b38dfc.bindPopup(popup_5557ffa624e159a7558ea044f0e91f92)
+        ;
+
+        
+    
+    
+                marker_d9e41ee42dc9be790fdf66bf68b38dfc.setIcon(icon_d8793dac4b84be89f4955bf3157a129c);
+            
+    
+            var marker_a5d1ff9ae8411387af0363cda644eec3 = L.marker(
+                [28.528, 77.145],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_9af166d1265221d0066786b8568f4397 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_fb524915b8296a131150e16540a599f5 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1ed0b30642854a7fb307ba6011513816 = $(`<div id="html_1ed0b30642854a7fb307ba6011513816" style="width: 100.0%; height: 100.0%;">jam: Delhi: A severe traffic jam on Mehrauli-Mahipalpur Road has left commuters stranded for hours, with ...</div>`)[0];
+                popup_fb524915b8296a131150e16540a599f5.setContent(html_1ed0b30642854a7fb307ba6011513816);
+            
+        
+
+        marker_a5d1ff9ae8411387af0363cda644eec3.bindPopup(popup_fb524915b8296a131150e16540a599f5)
+        ;
+
+        
+    
+    
+                marker_a5d1ff9ae8411387af0363cda644eec3.setIcon(icon_9af166d1265221d0066786b8568f4397);
+            
+    
+            var marker_c08b43fdd4ce85e4eeaec628663d8540 = L.marker(
+                [28.5668, 77.1003],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_fc81e2231df329716397501717a8a56b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "blue",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_7af727849c2895ff0aa3935f72219aad = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_42855a1a7ec96a34979970fe28f47838 = $(`<div id="html_42855a1a7ec96a34979970fe28f47838" style="width: 100.0%; height: 100.0%;">other: #Delhi weather: Over 350 #flights delayed at #IGI airport amid heavy congestion | Check details  #De...</div>`)[0];
+                popup_7af727849c2895ff0aa3935f72219aad.setContent(html_42855a1a7ec96a34979970fe28f47838);
+            
+        
+
+        marker_c08b43fdd4ce85e4eeaec628663d8540.bindPopup(popup_7af727849c2895ff0aa3935f72219aad)
+        ;
+
+        
+    
+    
+                marker_c08b43fdd4ce85e4eeaec628663d8540.setIcon(icon_fc81e2231df329716397501717a8a56b);
+            
+    
+            var marker_96469767102d61d9b761a433d1def71e = L.marker(
+                [12.9716, 77.5946],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_0499091c7353c7795f9f2bf398aaab76 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_72623521292203d0c6d88cd0529c3616 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_70b5f94b0b90121d190349b8e5a5fb08 = $(`<div id="html_70b5f94b0b90121d190349b8e5a5fb08" style="width: 100.0%; height: 100.0%;">jam: No fast lane here: Three of top five slowest cities are in India, reveals study #Bengaluru #Kolkata ...</div>`)[0];
+                popup_72623521292203d0c6d88cd0529c3616.setContent(html_70b5f94b0b90121d190349b8e5a5fb08);
+            
+        
+
+        marker_96469767102d61d9b761a433d1def71e.bindPopup(popup_72623521292203d0c6d88cd0529c3616)
+        ;
+
+        
+    
+    
+                marker_96469767102d61d9b761a433d1def71e.setIcon(icon_0499091c7353c7795f9f2bf398aaab76);
+            
+    
+            var marker_905cf3baea89cbcb3a6725e445d2c234 = L.marker(
+                [26.8467, 80.9462],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_c234a65af092361a08bf0a6b9caace71 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3de1aa99a21ea9c313d90528d8b4f79f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b53eb084b41374b5f78a1ff8465ee3f9 = $(`<div id="html_b53eb084b41374b5f78a1ff8465ee3f9" style="width: 100.0%; height: 100.0%;">jam: World's biggest traffic jam, 300 km congestion choke people stranded for hours CM  @myogiadityanath ...</div>`)[0];
+                popup_3de1aa99a21ea9c313d90528d8b4f79f.setContent(html_b53eb084b41374b5f78a1ff8465ee3f9);
+            
+        
+
+        marker_905cf3baea89cbcb3a6725e445d2c234.bindPopup(popup_3de1aa99a21ea9c313d90528d8b4f79f)
+        ;
+
+        
+    
+    
+                marker_905cf3baea89cbcb3a6725e445d2c234.setIcon(icon_c234a65af092361a08bf0a6b9caace71);
+            
+    
+            var marker_916f8bdc75f67e37d81891097d239b30 = L.marker(
+                [25.4358, 81.8463],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_c4fa68c8f81645ec7b4977ee976b5aac = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_0927dba8cb8b6c01ec2e0e094c92cc0d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ec2a29fbce9659e7db0e5ab94e76692f = $(`<div id="html_ec2a29fbce9659e7db0e5ab94e76692f" style="width: 100.0%; height: 100.0%;">jam: Hindu festivals like Diwali & Maha Kumbh Mela likely cause more traffic trouble in India due to mass...</div>`)[0];
+                popup_0927dba8cb8b6c01ec2e0e094c92cc0d.setContent(html_ec2a29fbce9659e7db0e5ab94e76692f);
+            
+        
+
+        marker_916f8bdc75f67e37d81891097d239b30.bindPopup(popup_0927dba8cb8b6c01ec2e0e094c92cc0d)
+        ;
+
+        
+    
+    
+                marker_916f8bdc75f67e37d81891097d239b30.setIcon(icon_c4fa68c8f81645ec7b4977ee976b5aac);
+            
+    
+            var marker_c319fa006ca38247f48e060e34fc5cea = L.marker(
+                [18.19, 73.28],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_5e5c665f1ee342906acfb77eb8684c85 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_97b297647a6df221b66c6c5836e7b061 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b0d0f6d101a7858701860de2af124286 = $(`<div id="html_b0d0f6d101a7858701860de2af124286" style="width: 100.0%; height: 100.0%;">jam: Mumbai: A massive traffic jam occurred on the Mumbai-Goa Highway as Mumbai residents returned from S...</div>`)[0];
+                popup_97b297647a6df221b66c6c5836e7b061.setContent(html_b0d0f6d101a7858701860de2af124286);
+            
+        
+
+        marker_c319fa006ca38247f48e060e34fc5cea.bindPopup(popup_97b297647a6df221b66c6c5836e7b061)
+        ;
+
+        
+    
+    
+                marker_c319fa006ca38247f48e060e34fc5cea.setIcon(icon_5e5c665f1ee342906acfb77eb8684c85);
+            
+    
+            var marker_ba5b380edd1f5ed0e321a9a1503deaa3 = L.marker(
+                [17.385, 78.4867],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_323456bfc5713a55f9b3f8effaf5535c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_29d4cd588d4175b89df2da3928d70840 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c5a56117cfeb7cbe068d4c2063d56963 = $(`<div id="html_c5a56117cfeb7cbe068d4c2063d56963" style="width: 100.0%; height: 100.0%;">jam: Th-1 India has become a nation perpetually stuck in traffic Jam. In cities like Hyderabad, traffic c...</div>`)[0];
+                popup_29d4cd588d4175b89df2da3928d70840.setContent(html_c5a56117cfeb7cbe068d4c2063d56963);
+            
+        
+
+        marker_ba5b380edd1f5ed0e321a9a1503deaa3.bindPopup(popup_29d4cd588d4175b89df2da3928d70840)
+        ;
+
+        
+    
+    
+                marker_ba5b380edd1f5ed0e321a9a1503deaa3.setIcon(icon_323456bfc5713a55f9b3f8effaf5535c);
+            
+    
+            var marker_621a5e16a83ef08c9934176caaab9eb0 = L.marker(
+                [24.9312, 84.0152],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_846c89ee34e8c18ab5bfbb1934d9a5a7 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_9f46107310db88fee38147d6fb7a5ef9 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_84af36f2458e5e1b890d815842f41b11 = $(`<div id="html_84af36f2458e5e1b890d815842f41b11" style="width: 100.0%; height: 100.0%;">jam: Rohtas, Bihar: Heavy traffic congestion on Sasaram National Highway is causing long delays, with 2 k...</div>`)[0];
+                popup_9f46107310db88fee38147d6fb7a5ef9.setContent(html_84af36f2458e5e1b890d815842f41b11);
+            
+        
+
+        marker_621a5e16a83ef08c9934176caaab9eb0.bindPopup(popup_9f46107310db88fee38147d6fb7a5ef9)
+        ;
+
+        
+    
+    
+                marker_621a5e16a83ef08c9934176caaab9eb0.setIcon(icon_846c89ee34e8c18ab5bfbb1934d9a5a7);
+            
+    
+            var marker_919ebe1794e0581f7c93edf2ff00b548 = L.marker(
+                [25.4358, 81.8463],
+                {
+}
+            ).addTo(map_78e08471cfa5eb2ab8bdb2adfdcddecf);
+        
+    
+            var icon_efe9e6bc9fec0b7c787081d02f43d04a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_53b2c34a90869f56fed9aff77ea6f63b = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_510c8a2b36a906db5d4722c1152fcbb6 = $(`<div id="html_510c8a2b36a906db5d4722c1152fcbb6" style="width: 100.0%; height: 100.0%;">jam: Maha Kumbh rush triggers one of India’s biggest traffic jams; pilgrims stranded in 300 km traffic ja...</div>`)[0];
+                popup_53b2c34a90869f56fed9aff77ea6f63b.setContent(html_510c8a2b36a906db5d4722c1152fcbb6);
+            
+        
+
+        marker_919ebe1794e0581f7c93edf2ff00b548.bindPopup(popup_53b2c34a90869f56fed9aff77ea6f63b)
+        ;
+
+        
+    
+    
+                marker_919ebe1794e0581f7c93edf2ff00b548.setIcon(icon_efe9e6bc9fec0b7c787081d02f43d04a);
+            
+</script>
+</html>

@@ -1,0 +1,99 @@
+tweet,ai_extracted
+Read:,"```json
+{
+    ""traffic_related"": false,
+    ""type"": ""other"",
+    ""location"": """"
+}
+```"
+"This video depicts a severe traffic jam in Gurugram, India, on the Delhi-Jaipur highway, caused by heavy rainfall and waterlogging on September 1, 2025. Commuters were stuck for hours in the congestion.","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Gurugram, India, on the Delhi-Jaipur highway""
+}
+```"
+"Checked the video. It shows a massive nighttime traffic jam with packed highways and city lights, matching recent reports of 20-km congestion in Gurugram, India, due to heavy rain on Sept 1, 2025. No matching recent events in Tianjin.","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Gurugram, India""
+}
+```"
+"6-hour jam, zero complaints: Rapido driver wins hearts for enduring Gurgaon’s traffic congestion amid heavy rain
+
+#viral #GurgaonRains #Trending #Gurgaontraffic","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Gurgaon""
+}
+```"
+This will improve more if we have good quality roads all over India irrespective of road. Like in pune city many roads are wide but in between roads are narrow. So no use of wide road and lot of congestion and traffic jam,"```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Pune city""
+}
+```"
+"Inside India’s Growing Challenge of Traffic Congestion and Emergency Response -  
+https://
+questiqa.in/inside-indias-
+growing-challenge-of-traffic-congestion-and-emergency-response/
+… Summary – A tragic traffic jam on a national highway has raised urgent questions about India’s infrastructure and emergency medical response systems.,
+  Article –
+A tragic ...","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""India, national highway""
+}
+```"
+"#Traffic chaos on #Ghaziabad-Delhi-Meerut Expressway ahead of #RakhiCelebration, #DelhiPolice issues alert | Video
+
+#DelhiNCR #noidapolice #rakhipurnima #Rakhi2025","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Ghaziabad-Delhi-Meerut Expressway""
+}
+```"
+"This was the traffic jam in Hyderabad last evening, a scene we see across India.
+
+It sends a clear message to growing Tier-II cities, plan now before it’s too late.
+
+Vehicles would soon outnumber the roads. You can’t solve congestion without having an efficient public transport.","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Hyderabad""
+}
+```"
+"NoMatter howMany tunel r made unless number of vehicles is not reduced traffic jam wont decline CongestionTax-free BMTCbus n free cycle-only solutn 
+
+Bengaluru trafic: DKShivakumar anounce 1.5km undrground road atHebbal to ease congstion 
+https://
+deccanherald.com/india/karnatak
+a/bengaluru/bengaluru-traffic-dk-shivakumar-announces-15-km-underground-road-at-hebbal-to-ease-congestion-3667324?utm_source=twitter&utm_medium=referral&utm_campaign=socialshare
+… via 
+@deccanherald","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Bengaluru, Hebbal""
+}
+```"
+"That’s the problem with copy paste approach, it may work less crowded areas but not in India, we need more tailor made approach for our traffic congestion. Last night there is one km jam just because couple of cars occupied the other side of the road in bottle neck curve road.","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""India""
+}
+```"
+"Nala Sopara, Maharashtra: A 2-km-long traffic jam occurred near Tulinj Road Naka in Nala Sopara East around 9 AM, causing delays for commuters. Locals cited roadside encroachments, unregulated auto-rickshaw parking, and lack of traffic police as key reasons for the congestion","```json
+{
+    ""traffic_related"": true,
+    ""type"": ""jam"",
+    ""location"": ""Tulinj Road Naka in Nala Sopara East""
+}
+```"

@@ -1,0 +1,15 @@
+Harvest rate per query:
+                          total_posts  relevant_posts  harvest_rate_%
+query                                                                
+#trafficjam Bangalore              21              18       85.714286
+road jam India                     16              16      100.000000
+traffic congestion India           12              11       91.666667
+traffic jam Bengaluru               2               2      100.000000
+traffic jam Chennai                24              24      100.000000
+traffic jam Delhi                  35              35      100.000000
+traffic jam India                   6               4       66.666667
+traffic jam Mumbai                  4               4      100.000000
+
+Overall harvest rate:
+   total_scraped_posts  total_relevant_posts  overall_harvest_rate_%
+0                  120                   114                    95.0
