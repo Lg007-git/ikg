@@ -1,0 +1,144 @@
+subject,predicate,object
+traffic_event_5,occurred_on,110058
+traffic_event_5,severity,minor
+traffic_event_6,occurred_on,110021
+traffic_event_6,severity,minor
+traffic_event_8,occurred_on,2025
+traffic_event_8,handled_by,the Worst Traffic
+traffic_event_8,handled_by,Mumbai & Pune
+traffic_event_10,handled_by,Silicon Traffic Jam
+silicon valley,has_issue,traffic_event_10
+silicon valley,has_issue,traffic_event_23
+silicon valley,has_issue,traffic_event_25
+silicon valley,has_issue,traffic_event_33
+silicon valley,has_issue,traffic_event_49
+traffic_event_11,handled_by,Non KA
+traffic_event_14,occurred_on,three months
+traffic_event_14,handled_by,Congress
+traffic_event_16,severity,major
+traffic_event_17,handled_by,Metra Infosys Technology
+traffic_event_17,handled_by,DigitalIndia
+traffic_event_18,handled_by,Karnataka Eyes Congestion Tax
+traffic_event_21,occurred_on,3 months
+traffic_event_21,handled_by,Congestion Tax
+traffic_event_21,handled_by,CongestionTax
+traffic_event_22,handled_by,NYC
+traffic_event_24,handled_by,Drain
+traffic_event_26,handled_by,CM
+traffic_event_26,handled_by,Guwahati
+traffic_event_26,severity,minor
+northeast india,has_issue,traffic_event_26
+traffic_event_27,handled_by,@PMOIndia
+traffic_event_28,occurred_on,122051
+traffic_event_28,handled_by,Traffic
+traffic_event_30,occurred_on,daily
+traffic_event_30,handled_by,RSS
+traffic_event_30,handled_by,hai waha
+traffic_event_30,handled_by,karke rally
+traffic_event_31,handled_by,khulta
+traffic_event_31,severity,minor
+traffic_event_32,occurred_on,"Sept 19, 2025"
+traffic_event_32,handled_by,Indian Express
+traffic_event_32,handled_by,Times of India
+sursagar lake,has_issue,traffic_event_32
+traffic_event_33,handled_by,Karnataka CM’s
+traffic_event_35,occurred_on,years
+traffic_event_41,occurred_on,daily
+traffic_event_42,handled_by,Times of India
+traffic_event_44,occurred_on,Yesterday
+traffic_event_45,handled_by,Indian Express
+traffic_event_45,handled_by,Times of India
+traffic_event_45,handled_by,NDTV
+traffic_event_46,handled_by,Road
+traffic_event_49,occurred_on,3+ years
+traffic_event_49,handled_by,the “Traffic Jam Capital
+traffic_event_50,handled_by,Kasturi
+traffic_event_54,severity,major
+traffic_event_55,handled_by,"@Uber_Support
+ 
+@airtelindia
+ 
+@DelhiAirportGMR
+ It"
+traffic_event_55,handled_by,@Uber_India
+traffic_event_57,occurred_on,today
+traffic_event_57,handled_by,KA03AA8536
+traffic_event_58,occurred_on,30-year-old
+traffic_event_58,handled_by,CCTV
+traffic_event_58,handled_by,CO
+traffic_event_58,handled_by,Kailash River Mining Company’s
+traffic_event_59,severity,major
+traffic_event_60,handled_by,jammu NH44
+traffic_event_60,handled_by,"@nhai
+ "
+traffic_event_60,severity,major
+traffic_event_61,severity,major
+traffic_event_62,severity,major
+traffic_event_65,handled_by,HMV
+traffic_event_66,handled_by,okhla bird
+traffic_event_67,handled_by,Authorities
+traffic_event_67,handled_by,Fire Crackers & Expired Food Items
+traffic_event_67,handled_by,Lohari Gate Chowk
+traffic_event_68,occurred_on,usual days
+traffic_event_71,severity,major
+traffic_event_72,handled_by,Qutab Road Chowk &
+traffic_event_72,handled_by,Traffic Police
+traffic_event_73,occurred_on,April '25
+traffic_event_73,handled_by,BJP
+traffic_event_73,handled_by,CM
+traffic_event_73,handled_by,MLAs
+traffic_event_73,handled_by,Councillors
+traffic_event_73,severity,major
+traffic_event_75,handled_by,Lohari Gate Chk
+traffic_event_76,handled_by,8.30am
+traffic_event_77,severity,major
+traffic_event_78,severity,major
+traffic_event_80,severity,major
+traffic_event_84,handled_by,Delhi-Noida
+mahamaya,has_issue,traffic_event_84
+traffic_event_85,handled_by,The Delhi Police
+traffic_event_85,severity,major
+traffic_event_86,handled_by,Teliwara & Mithai Pull  Delhi-6
+traffic_event_86,handled_by,Sadar Bazar
+traffic_event_86,handled_by,@PMOIndia
+traffic_event_87,occurred_on,this September
+traffic_event_87,severity,major
+traffic_event_88,handled_by,TrafficChaos
+traffic_event_88,severity,minor
+traffic_event_90,occurred_on,Today
+traffic_event_90,occurred_on,today
+traffic_event_90,handled_by,Chennai Traffic Advisory
+traffic_event_91,handled_by,Traffic Gridlock
+traffic_event_92,handled_by,the Korukkupet Ezhil Nagar
+traffic_event_92,handled_by,Commuters
+traffic_event_92,severity,major
+north chennai,has_issue,traffic_event_92
+traffic_event_93,handled_by,"@WHO
+ 
+@indSupremeCourt
+ 
+@HMOIndia
+ 
+"
+traffic_event_93,handled_by,@UNRSC
+traffic_event_94,handled_by,Traffic Gridlock
+traffic_event_96,handled_by,HathrasAccident
+traffic_event_98,occurred_on,a decade ago
+traffic_event_98,occurred_on,daily
+traffic_event_99,occurred_on,daily
+traffic_event_100,occurred_on,yesterday
+traffic_event_100,handled_by,Rajan Salai
+traffic_event_101,handled_by,Complete Gridlock
+traffic_event_101,handled_by,ChennaiWasi
+traffic_event_101,handled_by,Chennai
+traffic_event_102,handled_by,CPHEEO
+traffic_event_102,handled_by,Central Public Health & Environmental Engineering Organisation
+traffic_event_102,handled_by,@chennaicorp
+traffic_event_105,handled_by,Chennai
+north east,has_issue,traffic_event_105
+traffic_event_106,occurred_on,Yday
+traffic_event_106,handled_by,U
+traffic_event_107,handled_by,Chennai & Mumbai
+traffic_event_107,handled_by,Chennai & Mumbai half
+traffic_event_110,handled_by,Mass Rapid Transit System
+traffic_event_110,handled_by,Bangalore Mirror

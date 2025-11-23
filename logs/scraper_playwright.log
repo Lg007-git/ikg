@@ -206,3 +206,1563 @@
 [2025-10-02 11:32:31.839567] 📥 Collected 30 tweets for query: 'traffic gridlock Chennai'
 [2025-10-02 11:32:38.578217] ✅ Finished scraping 30 tweets → D:\Scrapping\twitter_scrapping\playwright_output\traffic1_2025-10-02.csv
 [2025-10-02 11:32:38.597899] ==== 🏁 Playwright Scraper Finished ====
+[2025-10-07 21:00:44.861558] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 21:00:52.818984] ✅ Cookies loaded
+[2025-10-07 21:00:56.450698] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 21:03:59.360161] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 21:04:01.519523] ✅ Cookies loaded
+[2025-10-07 21:06:10.117260] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 21:06:11.689446] ✅ Cookies loaded
+[2025-10-07 21:06:14.267056] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 21:06:18.022302] 📥 Collected 7 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:06:24.700265] 📥 Collected 9 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:06:30.264429] 📥 Collected 11 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:06:36.733582] 📥 Collected 12 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:06:47.388193] 📥 Collected 13 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:06:55.456666] 📥 Collected 14 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:04.176778] 📥 Collected 17 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:14.951503] 📥 Collected 19 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:22.582358] 📥 Collected 19 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:31.085124] 📥 Collected 24 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:41.020889] 📥 Collected 25 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:47.435196] 📥 Collected 28 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:07:57.381898] 📥 Collected 30 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 21:08:03.177536] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:08:05.345618] ✅ Cookies loaded
+[2025-10-07 21:08:08.726692] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-07 21:08:10.999096] 📥 Collected 8 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:08:18.431274] 📥 Collected 10 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:08:26.553859] 📥 Collected 11 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:08:29.872035] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:08:45.115272] 📥 Collected 13 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:08:52.607834] 📥 Collected 15 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:01.965855] 📥 Collected 17 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:09.294036] 📥 Collected 18 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:18.496444] 📥 Collected 22 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:30.050579] 📥 Collected 24 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:35.496878] 📥 Collected 27 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:41.888299] 📥 Collected 29 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:47.579966] 📥 Collected 30 tweets for query: 'Bengaluru traffic jam'
+[2025-10-07 21:09:52.145559] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:09:54.329137] ✅ Cookies loaded
+[2025-10-07 21:09:57.000583] 🔍 Opened search: https://x.com/search?q=Bangalore traffic congestion&src=typed_query&f=live
+[2025-10-07 21:09:59.988843] 📥 Collected 6 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:07.649585] 📥 Collected 10 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:15.371184] 📥 Collected 11 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:20.082578] 📥 Collected 13 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:30.525387] 📥 Collected 15 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:39.748332] 📥 Collected 17 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:10:50.027865] 📥 Collected 19 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:00.838319] 📥 Collected 20 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:08.305019] 📥 Collected 24 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:16.759842] 📥 Collected 25 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:25.864211] 📥 Collected 27 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:32.734998] 📥 Collected 28 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:41.838099] 📥 Collected 30 tweets for query: 'Bangalore traffic congestion'
+[2025-10-07 21:11:47.113061] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:11:49.254009] ✅ Cookies loaded
+[2025-10-07 21:11:51.717810] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic congestion&src=typed_query&f=live
+[2025-10-07 21:11:57.361722] 📥 Collected 7 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:06.319106] 📥 Collected 10 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:18.267734] 📥 Collected 12 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:28.277810] 📥 Collected 16 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:40.063287] 📥 Collected 17 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:47.191438] 📥 Collected 21 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:12:51.619104] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:13:09.584518] 📥 Collected 21 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:13:15.213927] 📥 Collected 23 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:13:22.973724] 📥 Collected 25 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:13:33.961891] 📥 Collected 28 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:13:43.700759] 📥 Collected 30 tweets for query: 'Bengaluru traffic congestion'
+[2025-10-07 21:13:47.979923] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:13:50.235086] ✅ Cookies loaded
+[2025-10-07 21:13:53.278919] 🔍 Opened search: https://x.com/search?q=Bangalore road jam&src=typed_query&f=live
+[2025-10-07 21:13:56.392630] 📥 Collected 7 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:05.089655] 📥 Collected 10 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:11.574735] 📥 Collected 14 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:19.847412] 📥 Collected 16 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:30.008408] 📥 Collected 17 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:40.663521] 📥 Collected 18 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:14:49.887924] 📥 Collected 18 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:15:00.390114] 📥 Collected 23 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:15:08.924971] 📥 Collected 27 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:15:20.028730] 📥 Collected 30 tweets for query: 'Bangalore road jam'
+[2025-10-07 21:15:23.268730] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:15:25.415086] ✅ Cookies loaded
+[2025-10-07 21:15:28.067189] 🔍 Opened search: https://x.com/search?q=Bangalore traffic update&src=typed_query&f=live
+[2025-10-07 21:15:32.335968] 📥 Collected 5 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:15:40.229639] 📥 Collected 7 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:15:48.887124] 📥 Collected 10 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:15:57.410609] 📥 Collected 13 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:06.675244] 📥 Collected 15 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:11.359816] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:16:24.414031] 📥 Collected 18 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:33.236382] 📥 Collected 20 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:42.962161] 📥 Collected 23 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:49.236915] 📥 Collected 24 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:16:58.918548] 📥 Collected 29 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:17:06.450636] 📥 Collected 30 tweets for query: 'Bangalore traffic update'
+[2025-10-07 21:17:11.359910] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:17:13.473686] ✅ Cookies loaded
+[2025-10-07 21:17:15.901073] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic update&src=typed_query&f=live
+[2025-10-07 21:17:19.274599] 📥 Collected 8 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:17:29.325880] 📥 Collected 12 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:17:35.831193] 📥 Collected 15 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:17:43.586686] 📥 Collected 18 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:17:52.324855] 📥 Collected 20 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:17:54.661575] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:18:12.615599] 📥 Collected 23 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:18:20.311322] 📥 Collected 24 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:18:29.911957] 📥 Collected 27 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:18:33.609248] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:18:46.179801] 📥 Collected 30 tweets for query: 'Bengaluru traffic update'
+[2025-10-07 21:18:51.484930] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:18:53.657253] ✅ Cookies loaded
+[2025-10-07 21:18:56.836567] 🔍 Opened search: https://x.com/search?q=Bangalore traffic alert&src=typed_query&f=live
+[2025-10-07 21:19:01.405177] 📥 Collected 6 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:10.171999] 📥 Collected 7 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:19.355052] 📥 Collected 10 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:28.423202] 📥 Collected 12 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:35.905458] 📥 Collected 14 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:45.975696] 📥 Collected 16 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:19:53.430596] 📥 Collected 17 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:01.342987] 📥 Collected 20 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:07.721915] 📥 Collected 23 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:15.246376] 📥 Collected 25 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:23.928021] 📥 Collected 28 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:29.592032] 📥 Collected 30 tweets for query: 'Bangalore traffic alert'
+[2025-10-07 21:20:35.646057] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:20:37.806260] ✅ Cookies loaded
+[2025-10-07 21:20:40.865477] 🔍 Opened search: https://x.com/search?q=Bangalore traffic news&src=typed_query&f=live
+[2025-10-07 21:20:44.244379] 📥 Collected 6 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:20:47.647469] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:21:03.520031] 📥 Collected 8 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:21:11.055351] 📥 Collected 9 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:21:15.823432] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:21:34.099105] 📥 Collected 10 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:21:42.798619] 📥 Collected 12 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:21:46.805998] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:22:00.329262] 📥 Collected 14 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:04.148828] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:22:17.289015] 📥 Collected 15 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:23.439329] 📥 Collected 17 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:30.416318] 📥 Collected 18 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:41.155931] 📥 Collected 20 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:49.629180] 📥 Collected 20 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:22:58.556133] 📥 Collected 23 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:23:06.659016] 📥 Collected 25 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:23:13.859285] 📥 Collected 26 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:23:20.087718] 📥 Collected 28 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:23:27.276971] 📥 Collected 30 tweets for query: 'Bangalore traffic news'
+[2025-10-07 21:23:32.722982] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:23:47.506039] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:23:49.724267] ✅ Cookies loaded
+[2025-10-07 21:23:52.371979] 🔍 Opened search: https://x.com/search?q=Bangalore traffic today&src=typed_query&f=live
+[2025-10-07 21:23:56.470979] 📥 Collected 8 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:24:03.282350] 📥 Collected 12 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:24:10.854308] 📥 Collected 15 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:24:20.150961] 📥 Collected 19 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:24:23.226022] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:24:42.320017] 📥 Collected 19 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:24:53.351900] 📥 Collected 27 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:25:04.723391] 📥 Collected 29 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:25:15.816641] 📥 Collected 30 tweets for query: 'Bangalore traffic today'
+[2025-10-07 21:25:19.756466] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:25:21.921999] ✅ Cookies loaded
+[2025-10-07 21:25:25.044035] 🔍 Opened search: https://x.com/search?q=stuck in traffic Bangalore&src=typed_query&f=live
+[2025-10-07 21:25:28.049038] 📥 Collected 13 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:25:36.675682] 📥 Collected 15 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:25:45.623701] 📥 Collected 18 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:25:53.195789] 📥 Collected 19 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:26:02.838128] 📥 Collected 25 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:26:05.129313] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:26:23.044296] 📥 Collected 30 tweets for query: 'stuck in traffic Bangalore'
+[2025-10-07 21:26:26.390532] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:26:28.546270] ✅ Cookies loaded
+[2025-10-07 21:26:30.577600] 🔍 Opened search: https://x.com/search?q=horrible traffic Bangalore&src=typed_query&f=live
+[2025-10-07 21:26:35.748606] 📥 Collected 13 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:26:40.799344] 📥 Collected 16 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:26:49.821774] 📥 Collected 18 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:26:59.682682] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:01.938892] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:27:16.063430] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:24.419554] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:31.970523] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:40.066316] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:47.168181] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:27:55.650843] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:28:04.563550] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:28:10.183196] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:28:21.675377] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:28:25.937822] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:28:42.675361] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:28:48.633558] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:28:57.564061] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:08.309331] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:16.175277] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:24.766497] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:33.450773] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:41.400194] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:51.129871] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:29:56.409386] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:30:08.960362] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:17.376768] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:22.447764] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:29.680055] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:35.561213] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:41.456842] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:51.445902] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:30:56.275390] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:31:15.968347] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:31:22.852536] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:31:29.079450] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:31:37.172657] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:31:43.841886] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:31:51.644757] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:00.317922] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:09.781820] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:18.666629] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:26.140861] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:32.598866] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:42.303655] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:47.959284] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:32:56.072728] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:01.243004] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:33:18.252341] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:25.924304] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:33.302224] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:42.167853] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:51.369680] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:33:58.805182] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:05.538108] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:10.782536] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:34:25.841000] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:33.726159] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:42.075757] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:49.671015] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:34:58.500595] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:03.870565] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:10.958039] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:20.161379] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:28.606727] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:37.461246] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:45.731489] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:35:52.958241] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:00.306384] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:08.936407] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:16.952333] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:22.114723] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:29.775429] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:38.361233] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:46.241812] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:36:53.955872] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:02.095877] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:12.473536] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:19.496758] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:27.683417] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:36.766043] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:46.839741] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:37:57.329438] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:05.211547] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:13.692137] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:21.324275] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:28.101067] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:34.165279] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:40.657795] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:48.094116] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:38:55.867033] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:03.885614] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:12.929118] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:17.765911] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:24.625976] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:34.039821] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:39.571514] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:46.098633] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:39:54.157593] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:03.492626] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:10.609989] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:19.518896] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:24.033856] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:40:36.698866] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:44.254485] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:40:47.707285] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:41:05.874010] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:12.263787] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:18.042353] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:25.590136] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:33.806777] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:42.385054] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:50.686857] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:41:56.595845] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:42:01.565641] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:42:05.845386] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:42:19.089687] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:42:27.787967] 📥 Collected 20 tweets for query: 'horrible traffic Bangalore'
+[2025-10-07 21:42:33.208969] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 21:42:35.345001] ✅ Cookies loaded
+[2025-10-07 21:42:38.085562] 🔍 Opened search: https://x.com/search?q=bumper to bumper Bangalore&src=typed_query&f=live
+[2025-10-07 21:42:42.948333] 📥 Collected 11 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:42:52.890478] 📥 Collected 14 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:43:02.366275] 📥 Collected 18 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:43:11.371206] 📥 Collected 20 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:43:20.080920] 📥 Collected 27 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:43:30.868797] 📥 Collected 30 tweets for query: 'bumper to bumper Bangalore'
+[2025-10-07 21:43:35.983454] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:43:38.109278] ✅ Cookies loaded
+[2025-10-07 21:43:40.420156] 🔍 Opened search: https://x.com/search?q=insane traffic Bangalore&src=typed_query&f=live
+[2025-10-07 21:43:45.874335] 📥 Collected 9 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:43:52.684244] 📥 Collected 10 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:03.224198] 📥 Collected 14 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:14.572038] 📥 Collected 15 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:24.983898] 📥 Collected 16 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:36.201475] 📥 Collected 20 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:47.220715] 📥 Collected 23 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:44:54.732897] 📥 Collected 28 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:45:05.063572] 📥 Collected 30 tweets for query: 'insane traffic Bangalore'
+[2025-10-07 21:45:11.236074] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:45:13.342832] ✅ Cookies loaded
+[2025-10-07 21:45:15.690391] 🔍 Opened search: https://x.com/search?q=Bangalore traffic sucks&src=typed_query&f=live
+[2025-10-07 21:45:18.449070] 📥 Collected 14 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:45:26.596874] 📥 Collected 18 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:45:33.888087] 📥 Collected 20 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:45:42.265510] 📥 Collected 27 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:45:50.798676] 📥 Collected 29 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:45:58.523843] 📥 Collected 30 tweets for query: 'Bangalore traffic sucks'
+[2025-10-07 21:46:02.156312] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:46:04.338991] ✅ Cookies loaded
+[2025-10-07 21:46:07.749051] 🔍 Opened search: https://x.com/search?q=jammed roads Bangalore&src=typed_query&f=live
+[2025-10-07 21:46:11.056627] 📥 Collected 5 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:46:19.662110] 📥 Collected 6 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:46:28.946524] 📥 Collected 11 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:46:39.104170] 📥 Collected 14 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:46:49.053852] 📥 Collected 16 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:00.416133] 📥 Collected 17 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:10.740597] 📥 Collected 21 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:22.833630] 📥 Collected 25 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:31.702340] 📥 Collected 26 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:43.241753] 📥 Collected 30 tweets for query: 'jammed roads Bangalore'
+[2025-10-07 21:47:48.183999] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:47:50.343046] ✅ Cookies loaded
+[2025-10-07 21:47:52.255808] 🔍 Opened search: https://x.com/search?q=traffic nightmare Bangalore&src=typed_query&f=live
+[2025-10-07 21:47:56.742300] 📥 Collected 9 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:04.884099] 📥 Collected 11 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:12.969864] 📥 Collected 12 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:21.622029] 📥 Collected 16 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:29.835898] 📥 Collected 19 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:37.828518] 📥 Collected 22 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:48:42.560569] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:48:59.529591] 📥 Collected 26 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:49:10.476655] 📥 Collected 30 tweets for query: 'traffic nightmare Bangalore'
+[2025-10-07 21:49:13.899879] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:49:16.051846] ✅ Cookies loaded
+[2025-10-07 21:49:19.247912] 🔍 Opened search: https://x.com/search?q=chaos at Silk Board&src=typed_query&f=live
+[2025-10-07 21:49:24.575322] 📥 Collected 16 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:49:30.610429] 📥 Collected 20 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:49:39.313350] 📥 Collected 24 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:49:48.323395] 📥 Collected 26 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:49:56.727740] 📥 Collected 29 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:50:02.330198] 📥 Collected 30 tweets for query: 'chaos at Silk Board'
+[2025-10-07 21:50:05.328775] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:50:07.474098] ✅ Cookies loaded
+[2025-10-07 21:50:09.851643] 🔍 Opened search: https://x.com/search?q=Silk Board traffic&src=typed_query&f=live
+[2025-10-07 21:50:14.463315] 📥 Collected 12 tweets for query: 'Silk Board traffic'
+[2025-10-07 21:50:22.061774] 📥 Collected 16 tweets for query: 'Silk Board traffic'
+[2025-10-07 21:50:32.029187] 📥 Collected 19 tweets for query: 'Silk Board traffic'
+[2025-10-07 21:50:41.119660] 📥 Collected 25 tweets for query: 'Silk Board traffic'
+[2025-10-07 21:50:50.395573] 📥 Collected 30 tweets for query: 'Silk Board traffic'
+[2025-10-07 21:50:54.365530] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:50:56.472922] ✅ Cookies loaded
+[2025-10-07 21:50:58.466914] 🔍 Opened search: https://x.com/search?q=Silk Board jam&src=typed_query&f=live
+[2025-10-07 21:51:03.709642] 📥 Collected 13 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:12.180160] 📥 Collected 15 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:21.251532] 📥 Collected 20 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:28.670871] 📥 Collected 23 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:36.720952] 📥 Collected 24 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:44.715458] 📥 Collected 26 tweets for query: 'Silk Board jam'
+[2025-10-07 21:51:54.392468] 📥 Collected 29 tweets for query: 'Silk Board jam'
+[2025-10-07 21:52:03.703796] 📥 Collected 30 tweets for query: 'Silk Board jam'
+[2025-10-07 21:52:07.763276] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:52:09.923625] ✅ Cookies loaded
+[2025-10-07 21:52:12.702341] 🔍 Opened search: https://x.com/search?q=Outer Ring Road traffic&src=typed_query&f=live
+[2025-10-07 21:52:15.500488] 📥 Collected 8 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:52:23.939183] 📥 Collected 10 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:52:34.236388] 📥 Collected 11 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:52:40.501499] 📥 Collected 14 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:52:45.754434] 📥 Collected 16 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:52:52.967178] 📥 Collected 18 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:53:00.098784] 📥 Collected 19 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:53:10.201019] 📥 Collected 20 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:53:17.465014] 📥 Collected 24 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:53:26.759675] 📥 Collected 30 tweets for query: 'Outer Ring Road traffic'
+[2025-10-07 21:53:32.622760] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:53:34.726911] ✅ Cookies loaded
+[2025-10-07 21:53:37.130439] 🔍 Opened search: https://x.com/search?q=ORR traffic Bangalore&src=typed_query&f=live
+[2025-10-07 21:53:42.643373] 📥 Collected 6 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:53:49.125500] 📥 Collected 9 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:53:57.543335] 📥 Collected 10 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:04.836491] 📥 Collected 12 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:14.392138] 📥 Collected 16 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:24.171471] 📥 Collected 18 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:29.834636] 📥 Collected 22 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:36.425665] 📥 Collected 24 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:46.704281] 📥 Collected 26 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:54:54.917736] 📥 Collected 28 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:55:03.932768] 📥 Collected 30 tweets for query: 'ORR traffic Bangalore'
+[2025-10-07 21:55:10.169045] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:55:12.296002] ✅ Cookies loaded
+[2025-10-07 21:55:14.627972] 🔍 Opened search: https://x.com/search?q=Electronic City traffic&src=typed_query&f=live
+[2025-10-07 21:55:19.122157] 📥 Collected 11 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:55:27.717894] 📥 Collected 13 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:55:35.983399] 📥 Collected 17 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:55:40.562421] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:55:54.025217] 📥 Collected 19 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:56:02.886792] 📥 Collected 22 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:56:10.804129] 📥 Collected 25 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:56:19.370282] 📥 Collected 27 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:56:27.902146] 📥 Collected 30 tweets for query: 'Electronic City traffic'
+[2025-10-07 21:56:33.508127] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:56:35.643723] ✅ Cookies loaded
+[2025-10-07 21:56:38.012840] 🔍 Opened search: https://x.com/search?q=Whitefield traffic jam&src=typed_query&f=live
+[2025-10-07 21:56:41.064427] 📥 Collected 8 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:56:51.543162] 📥 Collected 10 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:56:59.105643] 📥 Collected 12 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:06.068816] 📥 Collected 14 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:12.252045] 📥 Collected 16 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:19.646541] 📥 Collected 18 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:27.627071] 📥 Collected 19 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:36.714735] 📥 Collected 20 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:44.804953] 📥 Collected 26 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:57:50.961014] 📥 Collected 27 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:58:00.683631] 📥 Collected 30 tweets for query: 'Whitefield traffic jam'
+[2025-10-07 21:58:03.778573] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:58:05.910580] ✅ Cookies loaded
+[2025-10-07 21:58:08.313782] 🔍 Opened search: https://x.com/search?q=KR Puram traffic&src=typed_query&f=live
+[2025-10-07 21:58:13.403993] 📥 Collected 13 tweets for query: 'KR Puram traffic'
+[2025-10-07 21:58:21.575030] 📥 Collected 19 tweets for query: 'KR Puram traffic'
+[2025-10-07 21:58:29.005634] 📥 Collected 20 tweets for query: 'KR Puram traffic'
+[2025-10-07 21:58:34.437568] 📥 Collected 27 tweets for query: 'KR Puram traffic'
+[2025-10-07 21:58:37.060930] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 21:58:50.213114] 📥 Collected 30 tweets for query: 'KR Puram traffic'
+[2025-10-07 21:58:54.609618] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 21:58:56.797816] ✅ Cookies loaded
+[2025-10-07 21:58:59.576439] 🔍 Opened search: https://x.com/search?q=Hebbal traffic&src=typed_query&f=live
+[2025-10-07 21:59:04.699492] 📥 Collected 10 tweets for query: 'Hebbal traffic'
+[2025-10-07 21:59:18.701963] 📥 Collected 12 tweets for query: 'Hebbal traffic'
+[2025-10-07 21:59:30.334361] 📥 Collected 15 tweets for query: 'Hebbal traffic'
+[2025-10-07 21:59:41.839817] 📥 Collected 16 tweets for query: 'Hebbal traffic'
+[2025-10-07 21:59:53.643414] 📥 Collected 25 tweets for query: 'Hebbal traffic'
+[2025-10-07 22:00:06.522337] 📥 Collected 27 tweets for query: 'Hebbal traffic'
+[2025-10-07 22:00:10.491488] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:00:30.368335] 📥 Collected 28 tweets for query: 'Hebbal traffic'
+[2025-10-07 22:00:33.664115] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:00:49.737715] 📥 Collected 30 tweets for query: 'Hebbal traffic'
+[2025-10-07 22:00:53.437687] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:00:55.603354] ✅ Cookies loaded
+[2025-10-07 22:00:58.712114] 🔍 Opened search: https://x.com/search?q=HSR Layout traffic&src=typed_query&f=live
+[2025-10-07 22:01:01.428995] 📥 Collected 9 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:10.963695] 📥 Collected 12 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:17.164276] 📥 Collected 13 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:26.281964] 📥 Collected 14 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:33.994326] 📥 Collected 15 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:39.858985] 📥 Collected 17 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:47.593466] 📥 Collected 19 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:01:55.134922] 📥 Collected 20 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:05.175458] 📥 Collected 24 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:12.619033] 📥 Collected 25 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:22.352126] 📥 Collected 26 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:26.630645] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:02:46.286655] 📥 Collected 28 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:52.945024] 📥 Collected 29 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:02:59.977379] 📥 Collected 30 tweets for query: 'HSR Layout traffic'
+[2025-10-07 22:03:05.071297] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:03:07.292578] ✅ Cookies loaded
+[2025-10-07 22:03:09.941163] 🔍 Opened search: https://x.com/search?q=Marathahalli traffic&src=typed_query&f=live
+[2025-10-07 22:03:17.192232] 📥 Collected 7 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:03:20.812503] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:03:37.857224] 📥 Collected 12 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:03:50.428116] 📥 Collected 13 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:00.472959] 📥 Collected 17 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:08.688639] 📥 Collected 18 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:17.824633] 📥 Collected 18 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:26.815143] 📥 Collected 23 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:35.268129] 📥 Collected 26 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:41.533860] 📥 Collected 29 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:48.993815] 📥 Collected 30 tweets for query: 'Marathahalli traffic'
+[2025-10-07 22:04:51.751837] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:04:53.916020] ✅ Cookies loaded
+[2025-10-07 22:04:57.004442] 🔍 Opened search: https://x.com/search?q=Koramangala traffic jam&src=typed_query&f=live
+[2025-10-07 22:05:00.485908] 📥 Collected 11 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:07.157619] 📥 Collected 17 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:13.290332] 📥 Collected 19 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:18.339685] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:05:34.163257] 📥 Collected 20 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:42.027459] 📥 Collected 29 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:49.162412] 📥 Collected 30 tweets for query: 'Koramangala traffic jam'
+[2025-10-07 22:05:55.710892] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:05:57.839918] ✅ Cookies loaded
+[2025-10-07 22:05:59.763635] 🔍 Opened search: https://x.com/search?q=Bellandur traffic&src=typed_query&f=live
+[2025-10-07 22:06:05.063773] 📥 Collected 8 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:06:07.595966] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:06:24.381757] 📥 Collected 11 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:06:35.124970] 📥 Collected 15 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:06:37.401530] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:06:51.721164] 📥 Collected 16 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:03.662641] 📥 Collected 17 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:11.905656] 📥 Collected 26 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:22.281880] 📥 Collected 27 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:28.540411] 📥 Collected 29 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:36.369968] 📥 Collected 30 tweets for query: 'Bellandur traffic'
+[2025-10-07 22:07:39.741181] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:07:41.871112] ✅ Cookies loaded
+[2025-10-07 22:07:44.393193] 🔍 Opened search: https://x.com/search?q=Yeshwanthpur traffic jam&src=typed_query&f=live
+[2025-10-07 22:07:49.222652] 📥 Collected 10 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:07:57.707165] 📥 Collected 13 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:08:01.711068] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:08:15.535910] 📥 Collected 16 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:08:24.206187] 📥 Collected 17 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:08:28.035005] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:08:46.587892] 📥 Collected 19 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:08:55.653646] 📥 Collected 20 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:09:06.098764] 📥 Collected 27 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:09:11.956001] 📥 Collected 30 tweets for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:09:13.980403] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:09:28.343183] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:09:30.500721] ✅ Cookies loaded
+[2025-10-07 22:09:33.649824] 🔍 Opened search: https://x.com/search?q=Hosur Road traffic&src=typed_query&f=live
+[2025-10-07 22:09:38.108781] 📥 Collected 9 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:09:45.453266] 📥 Collected 10 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:09:48.539469] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:10:02.869885] 📥 Collected 12 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:10:06.295591] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:10:26.456650] 📥 Collected 14 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:10:34.374203] 📥 Collected 16 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:10:41.178772] 📥 Collected 18 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:10:48.295068] 📥 Collected 19 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:10:57.062950] 📥 Collected 25 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:11:07.749697] 📥 Collected 28 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:11:13.409212] 📥 Collected 30 tweets for query: 'Hosur Road traffic'
+[2025-10-07 22:11:16.641135] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:11:18.783437] ✅ Cookies loaded
+[2025-10-07 22:11:21.202739] 🔍 Opened search: https://x.com/search?q=#BangaloreTraffic&src=typed_query&f=live
+[2025-10-07 22:11:26.525917] 📥 Collected 3 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:11:36.916418] 📥 Collected 5 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:11:47.369542] 📥 Collected 6 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:11:56.384221] 📥 Collected 8 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:12:06.592718] 📥 Collected 8 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:12:18.419156] 📥 Collected 8 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:12:29.314065] 📥 Collected 9 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:12:32.084615] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:12:46.833545] 📥 Collected 11 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:12:50.273860] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:13:09.417959] 📥 Collected 12 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:13:21.258469] 📥 Collected 13 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:13:31.530513] 📥 Collected 16 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:13:40.099606] 📥 Collected 18 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:13:49.496395] 📥 Collected 19 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:13:58.342123] 📥 Collected 21 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:07.504029] 📥 Collected 23 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:13.583691] 📥 Collected 24 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:21.597040] 📥 Collected 24 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:31.478877] 📥 Collected 27 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:41.380449] 📥 Collected 28 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:14:45.421004] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:14:59.916375] 📥 Collected 30 tweets for query: '#BangaloreTraffic'
+[2025-10-07 22:15:05.577932] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:15:07.767330] ✅ Cookies loaded
+[2025-10-07 22:15:10.199751] 🔍 Opened search: https://x.com/search?q=#BangaloreJam&src=typed_query&f=live
+[2025-10-07 22:15:14.659162] 📥 Collected 1 tweets for query: '#BangaloreJam'
+[2025-10-07 22:15:20.155431] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:15:36.486973] 📥 Collected 3 tweets for query: '#BangaloreJam'
+[2025-10-07 22:15:46.106822] 📥 Collected 5 tweets for query: '#BangaloreJam'
+[2025-10-07 22:15:56.429811] 📥 Collected 6 tweets for query: '#BangaloreJam'
+[2025-10-07 22:16:01.475370] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:16:21.317330] 📥 Collected 6 tweets for query: '#BangaloreJam'
+[2025-10-07 22:16:30.534908] 📥 Collected 7 tweets for query: '#BangaloreJam'
+[2025-10-07 22:16:43.422726] 📥 Collected 9 tweets for query: '#BangaloreJam'
+[2025-10-07 22:16:55.756271] 📥 Collected 10 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:08.851741] 📥 Collected 12 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:19.896755] 📥 Collected 13 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:30.627724] 📥 Collected 14 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:38.869826] 📥 Collected 16 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:49.424073] 📥 Collected 16 tweets for query: '#BangaloreJam'
+[2025-10-07 22:17:59.529476] 📥 Collected 18 tweets for query: '#BangaloreJam'
+[2025-10-07 22:18:02.890885] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:18:18.896757] 📥 Collected 19 tweets for query: '#BangaloreJam'
+[2025-10-07 22:18:29.066242] 📥 Collected 19 tweets for query: '#BangaloreJam'
+[2025-10-07 22:18:40.183593] 📥 Collected 19 tweets for query: '#BangaloreJam'
+[2025-10-07 22:18:51.208785] 📥 Collected 21 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:01.153035] 📥 Collected 21 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:11.066241] 📥 Collected 24 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:20.150126] 📥 Collected 26 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:30.736675] 📥 Collected 29 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:36.453308] 📥 Collected 30 tweets for query: '#BangaloreJam'
+[2025-10-07 22:19:42.236793] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:19:44.404452] ✅ Cookies loaded
+[2025-10-07 22:19:46.844466] 🔍 Opened search: https://x.com/search?q=#BengaluruTraffic&src=typed_query&f=live
+[2025-10-07 22:19:49.617659] 📥 Collected 1 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:19:59.107476] 📥 Collected 3 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:06.445476] 📥 Collected 4 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:12.681587] 📥 Collected 5 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:20.494771] 📥 Collected 5 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:29.258331] 📥 Collected 6 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:34.808189] 📥 Collected 7 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:41.591088] 📥 Collected 8 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:20:51.634794] 📥 Collected 9 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:02.050814] 📥 Collected 10 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:09.113058] 📥 Collected 10 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:19.237794] 📥 Collected 11 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:27.897689] 📥 Collected 13 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:30.710610] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:21:46.013850] 📥 Collected 14 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:21:53.922788] 📥 Collected 14 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:22:01.606027] 📥 Collected 15 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:22:10.808774] 📥 Collected 17 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:22:21.187027] 📥 Collected 19 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:22:29.402830] 📥 Collected 20 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:22:32.891360] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:22:52.019880] 📥 Collected 20 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:00.280896] 📥 Collected 21 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:07.769949] 📥 Collected 22 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:18.082402] 📥 Collected 22 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:27.742095] 📥 Collected 22 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:39.526828] 📥 Collected 23 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:49.712669] 📥 Collected 24 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:23:57.207970] 📥 Collected 26 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:02.193740] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:24:16.111061] 📥 Collected 27 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:24.230934] 📥 Collected 27 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:33.264108] 📥 Collected 27 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:40.822384] 📥 Collected 28 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:51.708637] 📥 Collected 29 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:24:58.849149] 📥 Collected 30 tweets for query: '#BengaluruTraffic'
+[2025-10-07 22:25:03.998525] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:25:17.659926] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:25:20.180260] ✅ Cookies loaded
+[2025-10-07 22:25:23.906110] 🔍 Opened search: https://x.com/search?q=#BengaluruJam&src=typed_query&f=live
+[2025-10-07 22:25:26.793993] 📥 Collected 2 tweets for query: '#BengaluruJam'
+[2025-10-07 22:25:31.167663] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:25:47.904845] 📥 Collected 3 tweets for query: '#BengaluruJam'
+[2025-10-07 22:25:52.258787] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:26:06.672573] 📥 Collected 5 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:15.980046] 📥 Collected 6 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:26.860697] 📥 Collected 7 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:35.011098] 📥 Collected 8 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:42.161884] 📥 Collected 8 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:49.701865] 📥 Collected 9 tweets for query: '#BengaluruJam'
+[2025-10-07 22:26:55.798340] 📥 Collected 11 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:06.159377] 📥 Collected 12 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:16.210763] 📥 Collected 13 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:23.082534] 📥 Collected 14 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:32.241052] 📥 Collected 16 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:40.578643] 📥 Collected 17 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:47.968856] 📥 Collected 18 tweets for query: '#BengaluruJam'
+[2025-10-07 22:27:54.162518] 📥 Collected 19 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:03.499090] 📥 Collected 21 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:11.444269] 📥 Collected 22 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:18.820135] 📥 Collected 23 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:25.779749] 📥 Collected 25 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:33.682774] 📥 Collected 26 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:40.154695] 📥 Collected 26 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:51.349937] 📥 Collected 26 tweets for query: '#BengaluruJam'
+[2025-10-07 22:28:55.510056] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:29:15.962769] 📥 Collected 26 tweets for query: '#BengaluruJam'
+[2025-10-07 22:29:27.550896] 📥 Collected 27 tweets for query: '#BengaluruJam'
+[2025-10-07 22:29:37.477437] 📥 Collected 27 tweets for query: '#BengaluruJam'
+[2025-10-07 22:29:48.260802] 📥 Collected 29 tweets for query: '#BengaluruJam'
+[2025-10-07 22:29:59.038930] 📥 Collected 30 tweets for query: '#BengaluruJam'
+[2025-10-07 22:30:04.320636] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:30:06.684991] ✅ Cookies loaded
+[2025-10-07 22:30:10.129903] 🔍 Opened search: https://x.com/search?q=#SilkBoardTraffic&src=typed_query&f=live
+[2025-10-07 22:30:15.181384] 📥 Collected 4 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:30:23.141194] 📥 Collected 5 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:30:34.066570] 📥 Collected 6 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:30:43.743474] 📥 Collected 7 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:30:51.793727] 📥 Collected 9 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:00.481902] 📥 Collected 10 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:09.268821] 📥 Collected 13 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:16.464562] 📥 Collected 14 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:28.270925] 📥 Collected 17 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:39.694265] 📥 Collected 18 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:31:49.524232] 📥 Collected 20 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:32:02.546516] 📥 Collected 21 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:32:04.928422] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:32:25.206239] 📥 Collected 22 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:32:27.999029] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:32:45.046489] 📥 Collected 26 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:32:57.138182] 📥 Collected 27 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:33:07.706222] 📥 Collected 28 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:33:17.907470] 📥 Collected 30 tweets for query: '#SilkBoardTraffic'
+[2025-10-07 22:33:23.321171] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:33:25.559367] ✅ Cookies loaded
+[2025-10-07 22:33:28.336714] 🔍 Opened search: https://x.com/search?q=#ORRTraffic&src=typed_query&f=live
+[2025-10-07 22:33:31.702538] 📥 Collected 2 tweets for query: '#ORRTraffic'
+[2025-10-07 22:33:38.564596] 📥 Collected 4 tweets for query: '#ORRTraffic'
+[2025-10-07 22:33:48.004605] 📥 Collected 5 tweets for query: '#ORRTraffic'
+[2025-10-07 22:33:56.421051] 📥 Collected 6 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:04.876279] 📥 Collected 8 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:13.589174] 📥 Collected 10 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:23.091028] 📥 Collected 12 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:31.894189] 📥 Collected 12 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:38.661185] 📥 Collected 13 tweets for query: '#ORRTraffic'
+[2025-10-07 22:34:42.235895] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:34:59.068266] 📥 Collected 15 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:09.462003] 📥 Collected 16 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:18.192887] 📥 Collected 17 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:25.528600] 📥 Collected 19 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:29.980544] 📥 Collected 19 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:39.364883] 📥 Collected 22 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:48.137300] 📥 Collected 22 tweets for query: '#ORRTraffic'
+[2025-10-07 22:35:54.200698] 📥 Collected 23 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:03.036547] 📥 Collected 24 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:11.949415] 📥 Collected 25 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:23.829113] 📥 Collected 25 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:31.130900] 📥 Collected 28 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:42.410646] 📥 Collected 29 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:50.313183] 📥 Collected 30 tweets for query: '#ORRTraffic'
+[2025-10-07 22:36:55.262208] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:36:57.401366] ✅ Cookies loaded
+[2025-10-07 22:36:59.820054] 🔍 Opened search: https://x.com/search?q=#WhitefieldTraffic&src=typed_query&f=live
+[2025-10-07 22:37:02.010109] 📥 Collected 0 tweets for query: '#WhitefieldTraffic'
+[2025-10-07 22:37:07.918653] ⚠️ No more tweets found, stopping
+[2025-10-07 22:37:08.453461] ✅ Finished scraping 0 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:37:10.609354] ✅ Cookies loaded
+[2025-10-07 22:37:13.766684] 🔍 Opened search: https://x.com/search?q=#ElectronicCityTraffic&src=typed_query&f=live
+[2025-10-07 22:37:17.215603] 📥 Collected 4 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:37:24.367005] 📥 Collected 6 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:37:32.723047] 📥 Collected 7 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:37:40.495424] 📥 Collected 8 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:37:49.758840] 📥 Collected 9 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:37:55.678112] 📥 Collected 11 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:03.069081] 📥 Collected 13 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:05.175663] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:38:21.330528] 📥 Collected 14 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:27.524800] 📥 Collected 17 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:37.761448] 📥 Collected 18 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:45.327415] 📥 Collected 20 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:38:53.475759] 📥 Collected 22 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:01.100544] 📥 Collected 24 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:11.727940] 📥 Collected 26 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:19.144802] 📥 Collected 27 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:28.325408] 📥 Collected 27 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:38.821737] 📥 Collected 28 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:48.566050] 📥 Collected 30 tweets for query: '#ElectronicCityTraffic'
+[2025-10-07 22:39:52.748817] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:39:54.932720] ✅ Cookies loaded
+[2025-10-07 22:39:58.541917] 🔍 Opened search: https://x.com/search?q=#BangaloreTrafficUpdate&src=typed_query&f=live
+[2025-10-07 22:40:02.530068] 📥 Collected 4 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:10.570711] 📥 Collected 5 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:19.783509] 📥 Collected 6 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:29.074366] 📥 Collected 7 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:34.399306] 📥 Collected 9 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:44.037953] 📥 Collected 11 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:51.268921] 📥 Collected 12 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:40:59.084376] 📥 Collected 14 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:04.809177] 📥 Collected 16 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:12.891879] 📥 Collected 18 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:19.690889] 📥 Collected 18 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:24.862607] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:41:43.176731] 📥 Collected 22 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:50.236002] 📥 Collected 22 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:41:59.903040] 📥 Collected 24 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:05.910638] 📥 Collected 25 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:15.149515] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:22.352054] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:28.155746] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:37.125349] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:46.186507] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:42:55.547042] 📥 Collected 27 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:43:05.587221] 📥 Collected 30 tweets for query: '#BangaloreTrafficUpdate'
+[2025-10-07 22:43:08.765018] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:43:10.923733] ✅ Cookies loaded
+[2025-10-07 22:43:13.188974] 🔍 Opened search: https://x.com/search?q=#BangaloreTrafficAlert&src=typed_query&f=live
+[2025-10-07 22:43:17.285895] 📥 Collected 3 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:43:25.606648] 📥 Collected 5 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:43:34.841268] 📥 Collected 6 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:43:47.058276] 📥 Collected 8 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:43:57.204771] 📥 Collected 11 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:04.116615] 📥 Collected 11 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:12.630918] 📥 Collected 13 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:22.247470] 📥 Collected 15 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:31.916198] 📥 Collected 16 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:40.422108] 📥 Collected 18 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:44:53.217919] 📥 Collected 19 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:45:04.571547] 📥 Collected 22 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:45:16.122945] 📥 Collected 22 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:45:18.240743] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:45:37.142876] 📥 Collected 25 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:45:46.989502] 📥 Collected 27 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:45:55.018355] 📥 Collected 28 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:46:06.890960] 📥 Collected 30 tweets for query: '#BangaloreTrafficAlert'
+[2025-10-07 22:46:09.491323] ✅ Finished scraping 30 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:46:11.687421] ✅ Cookies loaded
+[2025-10-07 22:46:41.530488] 🔍 Opened search: https://x.com/search?q=#BangaloreTrafficJam&src=typed_query&f=live
+[2025-10-07 22:46:45.766365] 📥 Collected 3 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:46:56.152544] 📥 Collected 7 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:47:06.763752] 📥 Collected 9 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:47:13.802085] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 22:47:31.491688] 📥 Collected 9 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:47:49.717713] 📥 Collected 9 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:48:09.012481] 📥 Collected 15 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:48:22.741309] 📥 Collected 18 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:48:33.779509] 📥 Collected 22 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:48:43.353685] 📥 Collected 22 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:48:54.657671] 📥 Collected 22 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:49:02.497659] 📥 Collected 25 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:49:11.077671] 📥 Collected 25 tweets for query: '#BangaloreTrafficJam'
+[2025-10-07 22:49:15.935909] ⚠️ No more tweets found, stopping
+[2025-10-07 22:49:16.390929] ✅ Finished scraping 25 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic_2025-10-07.csv
+[2025-10-07 22:49:16.400637] ==== 🏁 Playwright Scraper Finished ====
+[2025-10-07 22:54:01.544516] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 22:54:03.817667] ✅ Cookies loaded
+[2025-10-07 22:54:06.911769] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 22:54:11.031255] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic jam'
+[2025-10-07 22:54:13.841783] ✅ Cookies loaded
+[2025-10-07 22:54:17.015937] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-07 22:54:20.286151] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic jam'
+[2025-10-07 22:54:23.074485] ✅ Cookies loaded
+[2025-10-07 22:54:25.633727] 🔍 Opened search: https://x.com/search?q=Bangalore traffic congestion&src=typed_query&f=live
+[2025-10-07 22:54:29.210718] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic congestion'
+[2025-10-07 22:54:31.347931] ✅ Cookies loaded
+[2025-10-07 22:54:34.542914] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic congestion&src=typed_query&f=live
+[2025-10-07 22:54:38.876914] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic congestion'
+[2025-10-07 22:54:41.651102] ✅ Cookies loaded
+[2025-10-07 22:54:44.807407] 🔍 Opened search: https://x.com/search?q=Bangalore road jam&src=typed_query&f=live
+[2025-10-07 22:54:48.651906] 🛑 Found older tweet (from 2025-09-30), stopping for query: 'Bangalore road jam'
+[2025-10-07 22:54:51.428158] ✅ Cookies loaded
+[2025-10-07 22:54:54.029851] 🔍 Opened search: https://x.com/search?q=Bangalore traffic update&src=typed_query&f=live
+[2025-10-07 22:54:57.049385] 🛑 Found older tweet (from 2025-10-03), stopping for query: 'Bangalore traffic update'
+[2025-10-07 22:54:59.742662] ✅ Cookies loaded
+[2025-10-07 22:55:02.160693] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic update&src=typed_query&f=live
+[2025-10-07 22:55:04.769706] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic update'
+[2025-10-07 22:55:07.459553] ✅ Cookies loaded
+[2025-10-07 22:55:10.831209] 🔍 Opened search: https://x.com/search?q=Bangalore traffic alert&src=typed_query&f=live
+[2025-10-07 22:55:14.244716] 🛑 Found older tweet (from 2025-10-02), stopping for query: 'Bangalore traffic alert'
+[2025-10-07 22:55:16.967952] ✅ Cookies loaded
+[2025-10-07 22:55:19.584058] 🔍 Opened search: https://x.com/search?q=Bangalore traffic news&src=typed_query&f=live
+[2025-10-07 22:55:22.587482] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic news'
+[2025-10-07 22:55:25.242548] ✅ Cookies loaded
+[2025-10-07 22:55:27.305514] 🔍 Opened search: https://x.com/search?q=Bangalore traffic today&src=typed_query&f=live
+[2025-10-07 22:55:31.264606] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic today'
+[2025-10-07 22:55:33.920754] ✅ Cookies loaded
+[2025-10-07 22:55:36.391951] 🔍 Opened search: https://x.com/search?q=stuck in traffic Bangalore&src=typed_query&f=live
+[2025-10-07 22:55:40.464934] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'stuck in traffic Bangalore'
+[2025-10-07 22:55:43.133221] ✅ Cookies loaded
+[2025-10-07 22:55:45.065240] 🔍 Opened search: https://x.com/search?q=horrible traffic Bangalore&src=typed_query&f=live
+[2025-10-07 22:55:48.073642] 🛑 Found older tweet (from 2025-10-02), stopping for query: 'horrible traffic Bangalore'
+[2025-10-07 22:55:50.727651] ✅ Cookies loaded
+[2025-10-07 22:55:53.086292] 🔍 Opened search: https://x.com/search?q=bumper to bumper Bangalore&src=typed_query&f=live
+[2025-10-07 22:55:57.172343] 🛑 Found older tweet (from 2025-09-21), stopping for query: 'bumper to bumper Bangalore'
+[2025-10-07 22:55:59.839423] ✅ Cookies loaded
+[2025-10-07 22:56:02.948582] 🔍 Opened search: https://x.com/search?q=insane traffic Bangalore&src=typed_query&f=live
+[2025-10-07 22:56:08.307097] 🛑 Found older tweet (from 2025-09-30), stopping for query: 'insane traffic Bangalore'
+[2025-10-07 22:56:11.053716] ✅ Cookies loaded
+[2025-10-07 22:56:13.006008] 🔍 Opened search: https://x.com/search?q=Bangalore traffic sucks&src=typed_query&f=live
+[2025-10-07 22:56:16.446091] 🛑 Found older tweet (from 2025-10-01), stopping for query: 'Bangalore traffic sucks'
+[2025-10-07 22:56:19.162679] ✅ Cookies loaded
+[2025-10-07 22:56:22.809107] 🔍 Opened search: https://x.com/search?q=jammed roads Bangalore&src=typed_query&f=live
+[2025-10-07 22:56:26.732069] 🛑 Found older tweet (from 2025-09-19), stopping for query: 'jammed roads Bangalore'
+[2025-10-07 22:56:29.477356] ✅ Cookies loaded
+[2025-10-07 22:56:31.408124] 🔍 Opened search: https://x.com/search?q=traffic nightmare Bangalore&src=typed_query&f=live
+[2025-10-07 22:56:33.906518] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'traffic nightmare Bangalore'
+[2025-10-07 22:56:36.564486] ✅ Cookies loaded
+[2025-10-07 22:56:39.473966] 🔍 Opened search: https://x.com/search?q=chaos at Silk Board&src=typed_query&f=live
+[2025-10-07 22:56:42.757513] 🛑 Found older tweet (from 2025-08-11), stopping for query: 'chaos at Silk Board'
+[2025-10-07 22:56:45.460800] ✅ Cookies loaded
+[2025-10-07 22:56:48.584597] 🔍 Opened search: https://x.com/search?q=Silk Board traffic&src=typed_query&f=live
+[2025-10-07 22:56:51.171398] 📥 Collected 5 tweets for query: 'Silk Board traffic'
+[2025-10-07 22:56:53.878362] ✅ Finished scraping 5 tweets → d:\Scrapping\twitter_scrapping\scrapped_data\traffic1_2025-10-07.csv
+[2025-10-07 22:56:56.048853] ✅ Cookies loaded
+[2025-10-07 22:56:59.059463] 🔍 Opened search: https://x.com/search?q=Silk Board jam&src=typed_query&f=live
+[2025-10-07 22:57:04.120301] 🛑 Found older tweet (from 2025-09-30), stopping for query: 'Silk Board jam'
+[2025-10-07 22:57:06.835620] ✅ Cookies loaded
+[2025-10-07 22:57:08.825746] 🔍 Opened search: https://x.com/search?q=Outer Ring Road traffic&src=typed_query&f=live
+[2025-10-07 22:57:11.653416] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Outer Ring Road traffic'
+[2025-10-07 22:57:13.970327] ✅ Cookies loaded
+[2025-10-07 22:57:17.514287] 🔍 Opened search: https://x.com/search?q=ORR traffic Bangalore&src=typed_query&f=live
+[2025-10-07 22:57:21.042021] 🛑 Found older tweet (from 2025-10-03), stopping for query: 'ORR traffic Bangalore'
+[2025-10-07 22:57:23.180501] ✅ Cookies loaded
+[2025-10-07 22:57:25.600743] 🔍 Opened search: https://x.com/search?q=Electronic City traffic&src=typed_query&f=live
+[2025-10-07 22:57:28.119102] 🛑 Found older tweet (from 2025-10-04), stopping for query: 'Electronic City traffic'
+[2025-10-07 22:57:30.818907] ✅ Cookies loaded
+[2025-10-07 22:57:33.940438] 🔍 Opened search: https://x.com/search?q=Whitefield traffic jam&src=typed_query&f=live
+[2025-10-07 22:57:38.598021] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Whitefield traffic jam'
+[2025-10-07 22:57:41.333338] ✅ Cookies loaded
+[2025-10-07 22:57:43.658976] 🔍 Opened search: https://x.com/search?q=KR Puram traffic&src=typed_query&f=live
+[2025-10-07 22:57:47.158917] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'KR Puram traffic'
+[2025-10-07 22:57:49.216466] ✅ Cookies loaded
+[2025-10-07 22:57:51.616937] 🔍 Opened search: https://x.com/search?q=Hebbal traffic&src=typed_query&f=live
+[2025-10-07 22:57:54.987766] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Hebbal traffic'
+[2025-10-07 22:57:57.627395] ✅ Cookies loaded
+[2025-10-07 22:57:59.994225] 🔍 Opened search: https://x.com/search?q=HSR Layout traffic&src=typed_query&f=live
+[2025-10-07 22:58:03.001269] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'HSR Layout traffic'
+[2025-10-07 22:58:05.706456] ✅ Cookies loaded
+[2025-10-07 22:58:08.808456] 🔍 Opened search: https://x.com/search?q=Marathahalli traffic&src=typed_query&f=live
+[2025-10-07 22:58:14.898377] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Marathahalli traffic'
+[2025-10-07 22:58:17.637120] ✅ Cookies loaded
+[2025-10-07 22:58:19.620231] 🔍 Opened search: https://x.com/search?q=Koramangala traffic jam&src=typed_query&f=live
+[2025-10-07 22:58:24.024964] 🛑 Found older tweet (from 2025-09-02), stopping for query: 'Koramangala traffic jam'
+[2025-10-07 22:58:26.092355] ✅ Cookies loaded
+[2025-10-07 22:58:28.528371] 🔍 Opened search: https://x.com/search?q=Bellandur traffic&src=typed_query&f=live
+[2025-10-07 22:58:31.474116] 🛑 Found older tweet (from 2025-10-04), stopping for query: 'Bellandur traffic'
+[2025-10-07 22:58:34.155864] ✅ Cookies loaded
+[2025-10-07 22:58:36.538517] 🔍 Opened search: https://x.com/search?q=Yeshwanthpur traffic jam&src=typed_query&f=live
+[2025-10-07 22:58:41.141287] 🛑 Found older tweet (from 2025-09-20), stopping for query: 'Yeshwanthpur traffic jam'
+[2025-10-07 22:58:43.864931] ✅ Cookies loaded
+[2025-10-07 22:58:46.943924] 🔍 Opened search: https://x.com/search?q=Hosur Road traffic&src=typed_query&f=live
+[2025-10-07 22:58:49.426268] 🛑 Found older tweet (from 2025-10-04), stopping for query: 'Hosur Road traffic'
+[2025-10-07 22:58:52.186709] ✅ Cookies loaded
+[2025-10-07 22:58:55.244704] 🔍 Opened search: https://x.com/search?q=#BangaloreTraffic&src=typed_query&f=live
+[2025-10-07 22:58:58.308420] 🛑 Found older tweet (from 2025-10-06), stopping for query: '#BangaloreTraffic'
+[2025-10-07 22:59:01.126930] ✅ Cookies loaded
+[2025-10-07 22:59:04.236383] 🔍 Opened search: https://x.com/search?q=#BangaloreJam&src=typed_query&f=live
+[2025-10-07 22:59:09.066081] 🛑 Found older tweet (from 2025-10-06), stopping for query: '#BangaloreJam'
+[2025-10-07 22:59:11.799333] ✅ Cookies loaded
+[2025-10-07 22:59:14.090478] 🔍 Opened search: https://x.com/search?q=#BengaluruTraffic&src=typed_query&f=live
+[2025-10-07 22:59:19.130206] 🛑 Found older tweet (from 2025-10-06), stopping for query: '#BengaluruTraffic'
+[2025-10-07 22:59:21.807241] ✅ Cookies loaded
+[2025-10-07 22:59:23.785209] 🔍 Opened search: https://x.com/search?q=#BengaluruJam&src=typed_query&f=live
+[2025-10-07 22:59:26.760181] 🛑 Found older tweet (from 2025-10-06), stopping for query: '#BengaluruJam'
+[2025-10-07 22:59:29.429950] ✅ Cookies loaded
+[2025-10-07 22:59:32.445551] 🔍 Opened search: https://x.com/search?q=#SilkBoardTraffic&src=typed_query&f=live
+[2025-10-07 22:59:35.926822] 🛑 Found older tweet (from 2025-10-06), stopping for query: '#SilkBoardTraffic'
+[2025-10-07 22:59:38.656717] ✅ Cookies loaded
+[2025-10-07 22:59:40.615343] 🔍 Opened search: https://x.com/search?q=#ORRTraffic&src=typed_query&f=live
+[2025-10-07 23:05:41.906273] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 23:05:44.139741] ✅ Cookies loaded
+[2025-10-07 23:05:46.533776] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 23:05:50.199192] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic jam'
+[2025-10-07 23:05:52.874158] ✅ Cookies loaded
+[2025-10-07 23:05:55.201506] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-07 23:05:58.571131] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic jam'
+[2025-10-07 23:11:44.021101] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 23:11:46.128391] ✅ Cookies loaded
+[2025-10-07 23:11:48.584422] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 23:11:53.011810] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bangalore traffic jam'
+[2025-10-07 23:11:55.680047] ✅ Cookies loaded
+[2025-10-07 23:11:58.009654] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-07 23:12:02.587008] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic jam'
+[2025-10-07 23:12:05.300662] ✅ Cookies loaded
+[2025-10-07 23:13:06.361844] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 23:13:08.521531] ✅ Cookies loaded
+[2025-10-07 23:13:10.906242] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 23:13:14.701643] 📥 Collected 5 tweets for query: 'Bangalore traffic jam'
+[2025-10-07 23:13:16.983287] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-07 23:19:59.365496] ==== 🚦 Playwright Scraper Started ====
+[2025-10-07 23:20:01.535666] ✅ Cookies loaded
+[2025-10-07 23:20:04.993167] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-07 23:20:08.036314] 🛑 Found older tweet (from 2025-10-05), stopping for query: 'Bangalore traffic jam'
+[2025-10-07 23:20:10.848598] ✅ Cookies loaded
+[2025-10-07 23:20:14.259804] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-07 23:20:17.830540] 🛑 Found older tweet (from 2025-10-06), stopping for query: 'Bengaluru traffic jam'
+[2025-10-14 14:24:53.950861] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 14:25:01.658931] ✅ Cookies loaded
+[2025-10-14 14:25:05.134225] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 14:25:10.436269] 🛑 Found older tweet (from 2025-10-12), stopping for query: 'Bangalore traffic jam'
+[2025-10-14 14:25:13.225283] ✅ Cookies loaded
+[2025-10-14 14:25:15.340589] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-14 14:25:19.882600] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bengaluru traffic jam'
+[2025-10-14 14:25:22.639004] ✅ Cookies loaded
+[2025-10-14 14:42:18.454709] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 14:42:20.641758] ✅ Cookies loaded
+[2025-10-14 14:42:30.056799] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 14:42:34.825335] 🛑 Found older tweet (from 2025-10-12), stopping for query: 'Bangalore traffic jam'
+[2025-10-14 14:42:37.611684] ✅ Cookies loaded
+[2025-10-14 14:42:47.923421] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-14 14:42:50.352587] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bengaluru traffic jam'
+[2025-10-14 14:42:53.161202] ✅ Cookies loaded
+[2025-10-14 14:45:20.697537] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 14:45:22.842200] ✅ Cookies loaded
+[2025-10-14 14:45:35.703609] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 14:45:39.877312] 🛑 Found older tweet (from 2025-10-12), stopping for query: 'Bangalore traffic jam'
+[2025-10-14 14:45:42.637181] ✅ Cookies loaded
+[2025-10-14 14:45:53.804704] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-14 14:45:58.831135] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bengaluru traffic jam'
+[2025-10-14 14:46:01.499765] ✅ Cookies loaded
+[2025-10-14 14:46:12.956951] 🔍 Opened search: https://x.com/search?q=Bangalore traffic congestion&src=typed_query&f=live
+[2025-10-14 14:46:16.031196] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bangalore traffic congestion'
+[2025-10-14 14:46:18.687339] ✅ Cookies loaded
+[2025-10-14 14:46:28.228852] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic congestion&src=typed_query&f=live
+[2025-10-14 14:46:31.995940] 🛑 Found older tweet (from 2025-10-12), stopping for query: 'Bengaluru traffic congestion'
+[2025-10-14 14:50:30.188097] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 14:50:32.313331] ✅ Cookies loaded
+[2025-10-14 14:50:43.937558] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 14:50:47.802847] 🛑 Found older tweet (from 2025-10-12), stopping for query: 'Bangalore traffic jam'
+[2025-10-14 14:50:50.487681] ✅ Cookies loaded
+[2025-10-14 14:51:02.343233] 🔍 Opened search: https://x.com/search?q=Bengaluru traffic jam&src=typed_query&f=live
+[2025-10-14 14:51:05.614280] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bengaluru traffic jam'
+[2025-10-14 14:51:08.414326] ✅ Cookies loaded
+[2025-10-14 14:51:20.448787] 🔍 Opened search: https://x.com/search?q=Bangalore traffic congestion&src=typed_query&f=live
+[2025-10-14 14:51:25.379991] 🛑 Found older tweet (from 2025-10-13), stopping for query: 'Bangalore traffic congestion'
+[2025-10-14 14:51:28.094130] ✅ Cookies loaded
+[2025-10-14 15:25:43.984341] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:25:49.372892] ✅ Cookies loaded
+[2025-10-14 15:26:01.626346] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:26:04.437847] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:26:15.179850] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:26:21.740676] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:26:26.339596] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:26:38.726762] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:26:46.671143] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:27:21.399623] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:27:23.610623] ✅ Cookies loaded
+[2025-10-14 15:27:34.965097] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:27:39.279903] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:27:47.250848] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:35:32.823629] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:35:35.012652] ✅ Cookies loaded
+[2025-10-14 15:35:45.120377] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:35:47.957261] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:35:56.251910] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:05.371887] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:10.479196] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:17.417087] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:25.035510] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:33.230289] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:43.451267] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:52.461888] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:36:56.552581] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:37:13.599340] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:37:24.116208] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:37:30.501350] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:37:33.090550] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:37:49.862676] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:37:56.276634] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:38:39.580986] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:38:41.728611] ✅ Cookies loaded
+[2025-10-14 15:38:53.928949] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:39:20.122241] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:39:22.303231] ✅ Cookies loaded
+[2025-10-14 15:39:33.599408] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:39:36.637741] 🔢 Scraping tweet 1/11
+[2025-10-14 15:39:36.644568] 🔢 Scraping tweet 2/11
+[2025-10-14 15:39:36.649722] 🔢 Scraping tweet 3/11
+[2025-10-14 15:39:36.656167] 🔢 Scraping tweet 4/11
+[2025-10-14 15:39:36.661214] 🔢 Scraping tweet 5/11
+[2025-10-14 15:39:36.666406] 🔢 Scraping tweet 6/11
+[2025-10-14 15:39:36.670968] 🔢 Scraping tweet 7/11
+[2025-10-14 15:39:36.675057] 🔢 Scraping tweet 8/11
+[2025-10-14 15:39:36.679827] 🔢 Scraping tweet 9/11
+[2025-10-14 15:39:36.685925] 🔢 Scraping tweet 10/11
+[2025-10-14 15:39:36.691503] 🔢 Scraping tweet 11/11
+[2025-10-14 15:39:36.696633] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:39:41.709795] 🔢 Scraping tweet 1/14
+[2025-10-14 15:39:41.715029] 🔢 Scraping tweet 2/14
+[2025-10-14 15:39:41.719409] 🔢 Scraping tweet 3/14
+[2025-10-14 15:39:41.723337] 🔢 Scraping tweet 4/14
+[2025-10-14 15:39:41.729074] 🔢 Scraping tweet 5/14
+[2025-10-14 15:39:41.733610] 🔢 Scraping tweet 6/14
+[2025-10-14 15:39:41.737247] 🔢 Scraping tweet 7/14
+[2025-10-14 15:39:41.741068] 🔢 Scraping tweet 8/14
+[2025-10-14 15:39:41.745361] 🔢 Scraping tweet 9/14
+[2025-10-14 15:39:41.749407] 🔢 Scraping tweet 10/14
+[2025-10-14 15:39:41.753186] 🔢 Scraping tweet 11/14
+[2025-10-14 15:39:41.757391] 🔢 Scraping tweet 12/14
+[2025-10-14 15:39:41.761413] 🔢 Scraping tweet 13/14
+[2025-10-14 15:39:41.765328] 🔢 Scraping tweet 14/14
+[2025-10-14 15:39:41.769299] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:39:46.227467] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:39:59.609205] 🔢 Scraping tweet 1/17
+[2025-10-14 15:39:59.613994] 🔢 Scraping tweet 2/17
+[2025-10-14 15:39:59.619118] 🔢 Scraping tweet 3/17
+[2025-10-14 15:39:59.626385] 🔢 Scraping tweet 4/17
+[2025-10-14 15:39:59.635755] 🔢 Scraping tweet 5/17
+[2025-10-14 15:39:59.639435] 🔢 Scraping tweet 6/17
+[2025-10-14 15:39:59.642883] 🔢 Scraping tweet 7/17
+[2025-10-14 15:39:59.648300] 🔢 Scraping tweet 8/17
+[2025-10-14 15:39:59.653622] 🔢 Scraping tweet 9/17
+[2025-10-14 15:39:59.657381] 🔢 Scraping tweet 10/17
+[2025-10-14 15:39:59.661393] 🔢 Scraping tweet 11/17
+[2025-10-14 15:39:59.667105] 🔢 Scraping tweet 12/17
+[2025-10-14 15:39:59.670781] 🔢 Scraping tweet 13/17
+[2025-10-14 15:39:59.674294] 🔢 Scraping tweet 14/17
+[2025-10-14 15:39:59.678171] 🔢 Scraping tweet 15/17
+[2025-10-14 15:39:59.683341] 🔢 Scraping tweet 16/17
+[2025-10-14 15:39:59.687216] 🔢 Scraping tweet 17/17
+[2025-10-14 15:39:59.690960] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:43:23.161329] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:43:25.364593] ✅ Cookies loaded
+[2025-10-14 15:43:36.367451] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:43:38.559127] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:43:41.331061] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:43:59.081174] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:05.382478] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:13.433515] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:21.610586] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:28.538390] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:36.557741] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:45.820651] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:44:57.224923] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:45:17.520103] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:48:14.588663] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:48:16.752181] ✅ Cookies loaded
+[2025-10-14 15:48:30.342597] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:48:33.070759] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:48:41.799608] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:48:49.802062] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:53:45.457778] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:53:47.652475] ✅ Cookies loaded
+[2025-10-14 15:54:00.333777] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:54:03.469056] 🧩 Found 10 tweet containers initially.
+[2025-10-14 15:54:03.507811] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:10.387208] 🧩 Found 10 tweet containers initially.
+[2025-10-14 15:54:10.420149] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:19.635193] 🧩 Found 10 tweet containers initially.
+[2025-10-14 15:54:19.671163] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:27.506880] 🧩 Found 16 tweet containers initially.
+[2025-10-14 15:54:27.558118] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:34.682654] 🧩 Found 16 tweet containers initially.
+[2025-10-14 15:54:34.734856] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:43.411602] 🧩 Found 12 tweet containers initially.
+[2025-10-14 15:54:43.449457] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:54:52.559601] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 15:57:24.388797] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 15:57:26.565523] ✅ Cookies loaded
+[2025-10-14 15:57:37.419017] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 15:57:42.217311] 🧩 Found 8 tweet containers.
+[2025-10-14 15:57:42.223394] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.229054] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.237223] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.242685] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.247169] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.251514] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.256288] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.260851] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:42.261293] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:57:50.894445] 🧩 Found 10 tweet containers.
+[2025-10-14 15:57:50.899959] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.904660] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.909405] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.913674] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.917955] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.922389] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.926834] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.930444] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.933911] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.938108] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:50.938638] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 15:57:58.601295] 🧩 Found 12 tweet containers.
+[2025-10-14 15:57:58.605581] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.609206] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.613384] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.617486] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.621685] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.626114] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.629889] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.633779] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.637330] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.645137] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.648995] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.652700] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:2:25
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 15:57:58.653176] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:01:34.114137] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 16:01:36.343867] ✅ Cookies loaded
+[2025-10-14 16:01:46.714362] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 16:01:49.273129] 🧩 Found 7 tweet containers.
+[2025-10-14 16:01:51.380542] 
+🧵 [1/7] @rajeev s
+[2025-10-14 16:01:51.381181] 🕒 2025-10-14T09:03:20.000Z
+[2025-10-14 16:01:51.381640] 💬 @PriyankKharge
+ stop this BS... u decide the place in bangalore and let go there and i will show u hell.. garbage, chaos, traffic jam, pollution. till such time u dont acknowledge problem, solutions will never b found and your attitude is that stale sarkari... garbage city
+--------------------------------------------------------------------------------
+[2025-10-14 16:01:54.905813] ⚠️ Failed to extract tweet: Locator.get_attribute: Error: strict mode violation: locator("article").nth(1).locator("time") resolved to 2 elements:
+    1) <time datetime="2025-10-14T08:31:24.000Z">2h</time> aka get_by_role("link", name="2 hours ago")
+    2) <time datetime="2025-10-13T07:00:59.000Z">Oct 13</time> aka get_by_role("link", name="Tejasvi Surya Verified")
+
+Call log:
+  - waiting for locator("article").nth(1).locator("time")
+
+[2025-10-14 16:01:57.468001] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:01:59.622446] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:02.051992] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:04.435538] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:07.383295] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:07.386530] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:02:15.535751] 🧩 Found 13 tweet containers.
+[2025-10-14 16:02:18.560088] 
+🧵 [1/13] @rajeev s
+[2025-10-14 16:02:18.560984] 🕒 2025-10-14T09:03:20.000Z
+[2025-10-14 16:02:18.561521] 💬 @PriyankKharge
+ stop this BS... u decide the place in bangalore and let go there and i will show u hell.. garbage, chaos, traffic jam, pollution. till such time u dont acknowledge problem, solutions will never b found and your attitude is that stale sarkari... garbage city
+--------------------------------------------------------------------------------
+[2025-10-14 16:02:21.994815] ⚠️ Failed to extract tweet: Locator.get_attribute: Error: strict mode violation: locator("article").nth(1).locator("time") resolved to 2 elements:
+    1) <time datetime="2025-10-14T08:31:24.000Z">2h</time> aka get_by_role("link", name="2 hours ago")
+    2) <time datetime="2025-10-13T07:00:59.000Z">Oct 13</time> aka get_by_role("link", name="Tejasvi Surya Verified")
+
+Call log:
+  - waiting for locator("article").nth(1).locator("time")
+
+[2025-10-14 16:02:24.424903] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:28.097275] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:34.995869] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:41.253903] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:43.468232] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:46.074451] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:48.826420] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:02:51.673164] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:04.586769] ⚠️ Failed to extract tweet: Locator.inner_text: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("article").nth(10)
+
+[2025-10-14 16:03:09.603030] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("article").nth(11)
+
+[2025-10-14 16:03:14.621969] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("article").nth(12)
+
+[2025-10-14 16:03:14.622792] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:03:22.966054] 🧩 Found 11 tweet containers.
+[2025-10-14 16:03:25.496699] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:27.838607] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:30.454628] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:33.290373] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:36.004932] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:38.754647] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:41.462735] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:44.218751] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:46.796341] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:49.820590] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:52.550565] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:03:52.551202] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:03:57.772794] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 16:04:11.649047] 🧩 Found 11 tweet containers.
+[2025-10-14 16:04:14.507811] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:16.886825] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:19.436702] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:22.100566] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:24.541132] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:27.308965] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:29.422152] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:32.030493] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:34.759879] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:37.794525] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:40.217524] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:40.218145] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:04:49.014277] 🧩 Found 11 tweet containers.
+[2025-10-14 16:04:51.592381] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:54.064341] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:56.938310] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:04:59.834625] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:02.277870] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:04.531593] 🛑 Older tweet (from 2025-10-12) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:07.113868] 🛑 Older tweet (from 2025-10-10) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:10.051714] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:13.010322] 🛑 Older tweet (from 2025-10-09) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:15.682958] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:18.548543] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:05:18.549203] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:05:23.237312] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 16:05:40.446949] 🧩 Found 11 tweet containers.
+[2025-10-14 16:05:45.971089] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4987ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:05:51.492149] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4988ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:05:57.022467] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4988ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:06:02.551452] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4986ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:06:07.003072] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:09.209424] 🛑 Older tweet (from 2025-10-05) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:11.343487] 🛑 Older tweet (from 2025-10-02) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:13.958811] 🛑 Older tweet (from 2025-09-30) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:16.843072] 🛑 Older tweet (from 2025-09-28) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:19.622605] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:22.460529] 🛑 Older tweet (from 2025-09-23) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:22.461212] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:06:24.982618] ⏸️ Taking a longer pause to mimic reading...
+[2025-10-14 16:06:37.057964] 🧩 Found 15 tweet containers.
+[2025-10-14 16:06:41.211590] ⚠️ Failed to extract tweet: Locator.get_attribute: Error: strict mode violation: locator("article").first.locator("time") resolved to 2 elements:
+    1) <time datetime="2025-09-29T12:21:55.000Z">Sep 29</time> aka get_by_label("KumarXclusive@KumarXclusive·Sep").get_by_role("link", name="Sep 29", exact=True)
+    2) <time datetime="2025-09-29T09:01:40.000Z">Sep 29</time> aka get_by_role("link", name="Indian Tech & Infra Verified")
+
+Call log:
+  - waiting for locator("article").first.locator("time")
+
+[2025-10-14 16:06:43.736255] 🛑 Older tweet (from 2025-09-30) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:46.780380] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:49.781461] 🛑 Older tweet (from 2025-10-02) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:51.964383] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:54.155838] 🛑 Older tweet (from 2025-10-01) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:57.224551] 🛑 Older tweet (from 2025-09-30) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:06:59.794512] 🛑 Older tweet (from 2025-09-28) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:02.455358] 🛑 Older tweet (from 2025-09-27) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:05.198328] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:07.458787] 🛑 Older tweet (from 2025-09-20) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:10.154955] 🛑 Older tweet (from 2025-09-18) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:12.748501] 🛑 Older tweet (from 2025-09-15) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:15.126198] 🛑 Older tweet (from 2025-09-06) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:20.135019] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("article").nth(14)
+
+[2025-10-14 16:07:20.135598] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:07:29.837430] 🧩 Found 15 tweet containers.
+[2025-10-14 16:07:31.940002] 🛑 Older tweet (from 2025-09-19) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:34.650808] 🛑 Older tweet (from 2025-09-20) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:36.940963] 🛑 Older tweet (from 2025-09-24) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:39.204551] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:42.041032] 🛑 Older tweet (from 2025-09-27) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:44.613010] 🛑 Older tweet (from 2025-09-27) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:47.489267] 🛑 Older tweet (from 2025-09-26) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:49.634031] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:51.985742] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:07:55.145783] 🛑 Older tweet (from 2025-09-23) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:08:02.918240] 🛑 Older tweet (from 2025-09-20) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:08:08.445492] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4987ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:08:13.963717] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4986ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:08:19.476680] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4980ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:08:24.490080] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 5000ms exceeded.
+Call log:
+  - waiting for locator("article").nth(14)
+
+[2025-10-14 16:08:24.490978] 📥 Collected 1 tweets for query: 'Bangalore traffic jam'
+[2025-10-14 16:08:36.364931] 🧩 Found 13 tweet containers.
+[2025-10-14 16:08:41.886910] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4986ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:08:47.410911] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4984ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 16:08:51.068779] 🛑 Older tweet (from 2025-09-25) skipped for query 'Bangalore traffic jam'
+[2025-10-14 16:08:53.301868] 🛑 Older tweet (from 2025-09-26) skipped for query 'Bangalore traffic jam'
+[2025-10-14 19:46:52.627141] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 19:46:55.023979] ✅ Cookies loaded
+[2025-10-14 19:47:07.424743] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 19:47:11.306933] 🔁 Starting new scan cycle for query: Bangalore traffic jam (current 0/10)
+[2025-10-14 19:47:15.371694] 🧩 Found 11 tweet containers.
+[2025-10-14 19:47:17.659176] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:20.509279] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:22.953215] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:25.540350] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:27.791841] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:30.788556] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:34.349114] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:41.936932] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:47:47.464805] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Timeout 4982ms exceeded.
+Call log:
+  - attempting scroll into view action
+    - waiting for element to be stable
+
+[2025-10-14 19:47:53.383993] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:11
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:49:12.384149] ==== 🚦 Playwright Scraper Started ====
+[2025-10-14 19:49:14.551026] ✅ Cookies loaded
+[2025-10-14 19:49:25.881248] 🔍 Opened search: https://x.com/search?q=Bangalore traffic jam&src=typed_query&f=live
+[2025-10-14 19:49:30.110080] 🔁 Starting new scan cycle for query: Bangalore traffic jam (current 0/10)
+[2025-10-14 19:49:33.388667] 🧩 Found 14 tweet containers.
+[2025-10-14 19:49:36.284283] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:12
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:49:38.939302] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:12
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:49:40.973672] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:12
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:49:44.435994] ⚠️ Failed to extract tweet: Page.evaluate: el is undefined
+@debugger eval code line 313 > eval:1:12
+evaluate@debugger eval code:320:18
+@debugger eval code:1:44
+
+[2025-10-14 19:49:47.309820] ⚠️ Failed to extract tweet: Page.evaluate: Target page, context or browser has been closed
+[2025-10-14 19:49:47.313561] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.317046] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.320058] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.322417] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.325181] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.327780] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.330708] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.333480] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.336395] ⚠️ Failed to extract tweet: Locator.scroll_into_view_if_needed: Target page, context or browser has been closed
+[2025-10-14 19:49:47.336850] ⚠️ No new tweets found in this cycle.
+[2025-10-14 19:49:47.337223] 📥 Collected 0 tweets for query: 'Bangalore traffic jam'

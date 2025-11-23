@@ -1,0 +1,262 @@
+subject,predicate,object
+Anil,reported_by,traffic_event_0
+ZEE २४ तास,reported_by,traffic_event_1
+Viraj Damle ,reported_by,traffic_event_2
+Nancy D,reported_by,traffic_event_3
+Gourab Basu,reported_by,traffic_event_4
+traffic_event_5,occurred_on,110058
+traffic_event_5,severity,minor
+Thakur Foundation,reported_by,traffic_event_5
+Thakur Foundation,reported_by,traffic_event_6
+Thakur Foundation,reported_by,traffic_event_29
+traffic_event_6,occurred_on,110021
+traffic_event_6,severity,minor
+traffic_event_8,occurred_on,2025
+traffic_event_8,handled_by,Mumbai & Pune
+traffic_event_8,handled_by,the Worst Traffic
+Bharat Observers,reported_by,traffic_event_8
+Sheriff Rango ,reported_by,traffic_event_9
+traffic_event_10,handled_by,Silicon Traffic Jam
+silicon valley,has_issue,traffic_event_10
+silicon valley,has_issue,traffic_event_24
+silicon valley,has_issue,traffic_event_26
+silicon valley,has_issue,traffic_event_34
+silicon valley,has_issue,traffic_event_50
+Let's Deinfluence,reported_by,traffic_event_10
+traffic_event_11,handled_by,Non KA
+Melvin Louis,reported_by,traffic_event_11
+shailendra kumar,reported_by,traffic_event_12
+National Herald,reported_by,traffic_event_13
+traffic_event_14,occurred_on,three months
+traffic_event_14,handled_by,Congress
+Vishal Sahu,reported_by,traffic_event_14
+Mathrubhumi English,reported_by,traffic_event_15
+Deccan Herald,reported_by,traffic_event_16
+traffic_event_17,severity,major
+shwetank singh,reported_by,traffic_event_17
+traffic_event_18,handled_by,Metra Infosys Technology
+traffic_event_18,handled_by,DigitalIndia
+ITS India Forum,reported_by,traffic_event_18
+traffic_event_19,handled_by,Karnataka Eyes Congestion Tax
+Rahul Yadav,reported_by,traffic_event_19
+Prathap Reddy T,reported_by,traffic_event_20
+Grok,reported_by,traffic_event_21
+Grok,reported_by,traffic_event_23
+Grok,reported_by,traffic_event_24
+Grok,reported_by,traffic_event_33
+Grok,reported_by,traffic_event_43
+Grok,reported_by,traffic_event_46
+Grok,reported_by,traffic_event_70
+Grok,reported_by,traffic_event_74
+Grok,reported_by,traffic_event_89
+traffic_event_22,occurred_on,3 months
+traffic_event_22,handled_by,Congestion Tax
+traffic_event_22,handled_by,CongestionTax
+RJ ARYAN,reported_by,traffic_event_22
+traffic_event_23,handled_by,NYC
+traffic_event_25,handled_by,Drain
+Frustrated Urban commuters,reported_by,traffic_event_25
+Karnataka Portfolio,reported_by,traffic_event_26
+traffic_event_27,handled_by,CM
+traffic_event_27,handled_by,Guwahati
+traffic_event_27,severity,minor
+northeast india,has_issue,traffic_event_27
+Jayanta Mallabaruah,reported_by,traffic_event_27
+traffic_event_28,handled_by,@PMOIndia
+Ministry of Steel,reported_by,traffic_event_28
+traffic_event_29,occurred_on,122051
+traffic_event_29,handled_by,Traffic
+VG,reported_by,traffic_event_30
+VG,reported_by,traffic_event_63
+VG,reported_by,traffic_event_82
+traffic_event_31,occurred_on,daily
+traffic_event_31,handled_by,RSS
+traffic_event_31,handled_by,hai waha
+traffic_event_31,handled_by,karke rally
+Rudresh.07,reported_by,traffic_event_31
+traffic_event_32,handled_by,khulta
+traffic_event_32,severity,minor
+Ꮢohit Jaiswal,reported_by,traffic_event_32
+traffic_event_33,occurred_on,"Sept 19, 2025"
+traffic_event_33,handled_by,Indian Express
+traffic_event_33,handled_by,Times of India
+sursagar lake,has_issue,traffic_event_33
+traffic_event_34,handled_by,Karnataka CM’s
+DD News,reported_by,traffic_event_34
+traffic_event_36,occurred_on,years
+Ajay Singhal,reported_by,traffic_event_36
+Ajay Trivedi,reported_by,traffic_event_38
+Anish Singh,reported_by,traffic_event_39
+Ashish Mishra,reported_by,traffic_event_40
+Karan,reported_by,traffic_event_41
+traffic_event_42,occurred_on,daily
+RAJENDER SHARMA,reported_by,traffic_event_42
+traffic_event_43,handled_by,Times of India
+traffic_event_45,occurred_on,Yesterday
+BharatMindset,reported_by,traffic_event_45
+traffic_event_46,handled_by,NDTV
+traffic_event_46,handled_by,Times of India
+traffic_event_46,handled_by,Indian Express
+traffic_event_47,handled_by,Road
+Pradeep Kumar Shukla,reported_by,traffic_event_47
+Balaji,reported_by,traffic_event_48
+anandabazar.com,reported_by,traffic_event_49
+traffic_event_50,occurred_on,3+ years
+traffic_event_50,handled_by,the “Traffic Jam Capital
+A void,reported_by,traffic_event_50
+traffic_event_51,handled_by,Kasturi
+its just me,reported_by,traffic_event_51
+Chitresh Ranka,reported_by,traffic_event_52
+A,reported_by,traffic_event_53
+Dal Bati Churma,reported_by,traffic_event_54
+traffic_event_55,severity,major
+Free Press Journal,reported_by,traffic_event_55
+traffic_event_56,handled_by,@Uber_India
+traffic_event_56,handled_by,"@Uber_Support
+ 
+@airtelindia
+ 
+@DelhiAirportGMR
+ It"
+Jayesh K S,reported_by,traffic_event_56
+BK,reported_by,traffic_event_57
+traffic_event_58,occurred_on,today
+traffic_event_58,handled_by,KA03AA8536
+Engineer,reported_by,traffic_event_58
+traffic_event_59,occurred_on,30-year-old
+traffic_event_59,handled_by,Kailash River Mining Company’s
+traffic_event_59,handled_by,CCTV
+traffic_event_59,handled_by,CO
+IANS,reported_by,traffic_event_59
+traffic_event_60,severity,major
+विनोद अग्निहोत्री Vinod Agnihotri,reported_by,traffic_event_60
+traffic_event_61,handled_by,"@nhai
+ "
+traffic_event_61,handled_by,jammu NH44
+traffic_event_61,severity,major
+V.R.Hari,reported_by,traffic_event_61
+traffic_event_62,severity,major
+nidhi joshi,reported_by,traffic_event_62
+traffic_event_63,severity,major
+Mehul Saxena,reported_by,traffic_event_64
+Saarthak Bajaj,reported_by,traffic_event_65
+Saarthak Bajaj,reported_by,traffic_event_84
+Saarthak Bajaj,reported_by,traffic_event_85
+traffic_event_66,handled_by,HMV
+Pablo Ansari ,reported_by,traffic_event_66
+traffic_event_67,handled_by,okhla bird
+UnbearablePollutionInIndianCities,reported_by,traffic_event_67
+traffic_event_68,handled_by,Lohari Gate Chowk
+traffic_event_68,handled_by,Fire Crackers & Expired Food Items
+traffic_event_68,handled_by,Authorities
+Deepanshu Kapoor,reported_by,traffic_event_68
+Deepanshu Kapoor,reported_by,traffic_event_73
+Deepanshu Kapoor,reported_by,traffic_event_76
+Deepanshu Kapoor,reported_by,traffic_event_88
+traffic_event_69,occurred_on,usual days
+Subhan Kamil,reported_by,traffic_event_69
+Suresh Kumar Sharma,reported_by,traffic_event_71
+traffic_event_72,severity,major
+Common Man,reported_by,traffic_event_72
+traffic_event_73,handled_by,Traffic Police
+traffic_event_73,handled_by,Qutab Road Chowk &
+traffic_event_74,occurred_on,April '25
+traffic_event_74,handled_by,CM
+traffic_event_74,handled_by,BJP
+traffic_event_74,handled_by,MLAs
+traffic_event_74,handled_by,Councillors
+traffic_event_74,severity,major
+sunil,reported_by,traffic_event_75
+traffic_event_76,handled_by,Lohari Gate Chk
+traffic_event_77,handled_by,8.30am
+Eduzealot,reported_by,traffic_event_77
+traffic_event_78,severity,major
+OMG Amogh,reported_by,traffic_event_78
+OMG Amogh,reported_by,traffic_event_79
+OMG Amogh,reported_by,traffic_event_81
+traffic_event_79,severity,major
+traffic_event_80,severity,major
+sanjay dutt balodi,reported_by,traffic_event_80
+traffic_event_82,severity,major
+Prateek,reported_by,traffic_event_83
+traffic_event_86,handled_by,Delhi-Noida
+mahamaya,has_issue,traffic_event_86
+OM ,reported_by,traffic_event_86
+traffic_event_87,handled_by,The Delhi Police
+traffic_event_87,severity,major
+Deepak,reported_by,traffic_event_87
+traffic_event_88,handled_by,@PMOIndia
+traffic_event_88,handled_by,Sadar Bazar
+traffic_event_88,handled_by,Teliwara & Mithai Pull  Delhi-6
+traffic_event_89,occurred_on,this September
+traffic_event_89,severity,major
+traffic_event_90,handled_by,TrafficChaos
+traffic_event_90,severity,minor
+Varanasi Vista,reported_by,traffic_event_90
+VOMMspotter,reported_by,traffic_event_91
+traffic_event_92,occurred_on,Today
+traffic_event_92,occurred_on,today
+traffic_event_92,handled_by,Chennai Traffic Advisory
+Scarlett Morales,reported_by,traffic_event_92
+traffic_event_93,handled_by,Traffic Gridlock
+TIMES NOW,reported_by,traffic_event_93
+traffic_event_94,handled_by,the Korukkupet Ezhil Nagar
+traffic_event_94,handled_by,Commuters
+traffic_event_94,severity,major
+north chennai,has_issue,traffic_event_94
+South First,reported_by,traffic_event_94
+traffic_event_95,handled_by,"@WHO
+ 
+@indSupremeCourt
+ 
+@HMOIndia
+ 
+"
+traffic_event_95,handled_by,@UNRSC
+Bharanidharan I,reported_by,traffic_event_95
+traffic_event_96,handled_by,Traffic Gridlock
+The Vocal News,reported_by,traffic_event_96
+DT Next,reported_by,traffic_event_97
+DT Next,reported_by,traffic_event_115
+DT Next,reported_by,traffic_event_119
+traffic_event_98,handled_by,HathrasAccident
+Sunil Maheshwari,reported_by,traffic_event_98
+A.Ramachandran,reported_by,traffic_event_99
+traffic_event_100,occurred_on,a decade ago
+traffic_event_100,occurred_on,daily
+The Hindu - Chennai,reported_by,traffic_event_100
+traffic_event_101,occurred_on,daily
+harish,reported_by,traffic_event_101
+traffic_event_102,occurred_on,yesterday
+traffic_event_102,handled_by,Rajan Salai
+Sundara Rajan,reported_by,traffic_event_102
+traffic_event_103,handled_by,Chennai
+traffic_event_103,handled_by,ChennaiWasi
+traffic_event_103,handled_by,Complete Gridlock
+Raghavan JV,reported_by,traffic_event_103
+traffic_event_104,handled_by,Central Public Health & Environmental Engineering Organisation
+traffic_event_104,handled_by,CPHEEO
+traffic_event_104,handled_by,@chennaicorp
+G.Ananthakrishnan,reported_by,traffic_event_104
+Citizen Matters,reported_by,traffic_event_105
+Fabiola J,reported_by,traffic_event_106
+Fabiola J,reported_by,traffic_event_116
+traffic_event_107,handled_by,Chennai
+north east,has_issue,traffic_event_107
+Aravind,reported_by,traffic_event_107
+traffic_event_108,occurred_on,Yday
+traffic_event_108,handled_by,U
+Sairam Gopalan,reported_by,traffic_event_108
+traffic_event_109,handled_by,Chennai & Mumbai
+Economic Times,reported_by,traffic_event_109
+traffic_event_110,handled_by,Chennai & Mumbai
+Selvanayagam,reported_by,traffic_event_110
+traffic_event_111,handled_by,Chennai & Mumbai half
+Kiran Mazumdar-Shaw,reported_by,traffic_event_111
+News Today,reported_by,traffic_event_112
+TOIChennai,reported_by,traffic_event_113
+traffic_event_114,handled_by,Bangalore Mirror
+traffic_event_114,handled_by,Mass Rapid Transit System
+Yermal Shetty,reported_by,traffic_event_114
+Ram Viswanathan,reported_by,traffic_event_117
+Shailesh K. PATHAK,reported_by,traffic_event_118

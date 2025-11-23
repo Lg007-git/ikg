@@ -1,6 +1,5 @@
 .env
 cookies/
-part2/
 __pycache__/
 lib/
 venv/
